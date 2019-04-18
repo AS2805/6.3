@@ -1,0 +1,19 @@
+CREATE SERVICE
+
+sc create Herts_TritonNode displayname= Herts_TritonNode binpath= "C:\Herts_Switch\Triton_Node\SwitchLink.TritonNode.exe"
+
+sc create Herts_CoreNode displayname= Herts_CoreNode binpath="C:\Herts_Switch\Core_Node\SwitchLink.CoreNode.exe"
+
+sc create Herts_HostNode displayname= Herts_HostNode binpath="C:\Herts_Switch\Host_Node\SwitchLink.HostNode.exe"
+
+sc create Herts_BankSimulator displayname= Herts_BankSimulator binpath="C:\Herts_Switch\Bank_Simulator\BankSimulator.exe"
+
+REMOVE SERVICE
+
+sc delete Herts_TritonNode displayname= Herts_TritonNode binpath= "C:\Herts_Switch\Triton_Node\SwitchLink.TritonNode.exe"
+
+sc delete Herts_CoreNode displayname= Herts_CoreNode binpath="C:\Herts_Switch\Core_Node\SwitchLink.CoreNode.exe"
+
+sc delete Herts_HostNode displayname= Herts_HostNode binpath="C:\Herts_Switch\Host_Node\SwitchLink.HostNode.exe"
+
+sc delete Herts_BankSimulator displayname= Herts_BankSimulator binpath="C:\Herts_Switch\Bank_Simulator\BankSimulator.exe"

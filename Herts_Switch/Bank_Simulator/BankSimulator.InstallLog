@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\Herts_Switch\Bank_Simulator\BankSimulator.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Herts_Switch\Bank_Simulator\BankSimulator.InstallLog
+   assemblypath = C:\Herts_Switch\Bank_Simulator\BankSimulator.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Herts_Switch\Bank_Simulator\BankSimulator.exe assembly.
+Committing assembly 'C:\Herts_Switch\Bank_Simulator\BankSimulator.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Herts_Switch\Bank_Simulator\BankSimulator.InstallLog
+   assemblypath = C:\Herts_Switch\Bank_Simulator\BankSimulator.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Herts_Switch\Bank_Simulator\BankSimulator.exe assembly.
+Remove InstallState file because there are no installers.

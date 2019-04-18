@@ -1,0 +1,171 @@
+2016-03-15 16:12:03,490 [11] ERROR SwitchLink.ProtocalFactory.TritonNode.Models.TransactionModel [(null)] - Authentication to host 'localhost' for user 'root' using method 'mysql_native_password' failed with message: Reading from the stream has failed. Stack:    at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed(Exception ex)
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(Boolean reset)
+   at MySql.Data.MySqlClient.NativeDriver.Authenticate(String authMethod, Boolean reset)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at SwitchLink.Data.BaseData.GetOpenConnection() in C:\Development\SwitchLink.Switch\SwitchLink.Data\BaseData.cs:line 30
+   at SwitchLink.Data.TransactionData.GetSequenceNumbers(String seq_type) in C:\Development\SwitchLink.Switch\SwitchLink.Data\TransactionData.cs:line 58
+   at SwitchLink.ProtocalFactory.Helper.RRN_Sequence.get_TranSeqNo() in C:\Development\SwitchLink.Switch\Framework\SwitchLink.ProtocalFactory\Helper\RRN_Sequence.cs:line 24
+   at SwitchLink.ProtocalFactory.TritonNode.Models.TransactionModel.Create(String[] results, String request) in C:\Development\SwitchLink.Switch\Framework\SwitchLink.ProtocalFactory\TritonNode\Models\TransactionModel.cs:line 36
+2016-03-15 16:12:03,505 [9] ERROR SwitchLink.ProtocalFactory.TritonNode.Models.TransactionModel [(null)] - Authentication to host 'localhost' for user 'root' using method 'mysql_native_password' failed with message: Reading from the stream has failed. Stack:    at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed(Exception ex)
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(Boolean reset)
+   at MySql.Data.MySqlClient.NativeDriver.Authenticate(String authMethod, Boolean reset)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at SwitchLink.Data.BaseData.GetOpenConnection() in C:\Development\SwitchLink.Switch\SwitchLink.Data\BaseData.cs:line 30
+   at SwitchLink.Data.TransactionData.GetSequenceNumbers(String seq_type) in C:\Development\SwitchLink.Switch\SwitchLink.Data\TransactionData.cs:line 58
+   at SwitchLink.ProtocalFactory.Helper.RRN_Sequence.get_TranSeqNo() in C:\Development\SwitchLink.Switch\Framework\SwitchLink.ProtocalFactory\Helper\RRN_Sequence.cs:line 24
+   at SwitchLink.ProtocalFactory.TritonNode.Models.TransactionModel.Create(String[] results, String request) in C:\Development\SwitchLink.Switch\Framework\SwitchLink.ProtocalFactory\TritonNode\Models\TransactionModel.cs:line 36
+2016-03-15 16:12:03,505 [3] ERROR SwitchLink.ProtocalFactory.TritonNode.Models.TransactionModel [(null)] - Authentication to host 'localhost' for user 'root' using method 'mysql_native_password' failed with message: Reading from the stream has failed. Stack:    at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed(Exception ex)
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(Boolean reset)
+   at MySql.Data.MySqlClient.NativeDriver.Authenticate(String authMethod, Boolean reset)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at SwitchLink.Data.BaseData.GetOpenConnection() in C:\Development\SwitchLink.Switch\SwitchLink.Data\BaseData.cs:line 30
+   at SwitchLink.Data.TransactionData.GetSequenceNumbers(String seq_type) in C:\Development\SwitchLink.Switch\SwitchLink.Data\TransactionData.cs:line 58
+   at SwitchLink.ProtocalFactory.Helper.RRN_Sequence.get_TranSeqNo() in C:\Development\SwitchLink.Switch\Framework\SwitchLink.ProtocalFactory\Helper\RRN_Sequence.cs:line 24
+   at SwitchLink.ProtocalFactory.TritonNode.Models.TransactionModel.Create(String[] results, String request) in C:\Development\SwitchLink.Switch\Framework\SwitchLink.ProtocalFactory\TritonNode\Models\TransactionModel.cs:line 36
+2016-03-15 16:12:03,521 [12] ERROR SwitchLink.ProtocalFactory.TritonNode.Models.TransactionModel [(null)] - Authentication to host 'localhost' for user 'root' using method 'mysql_native_password' failed with message: Reading from the stream has failed. Stack:    at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed(Exception ex)
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(Boolean reset)
+   at MySql.Data.MySqlClient.NativeDriver.Authenticate(String authMethod, Boolean reset)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at SwitchLink.Data.BaseData.GetOpenConnection() in C:\Development\SwitchLink.Switch\SwitchLink.Data\BaseData.cs:line 30
+   at SwitchLink.Data.TransactionData.GetSequenceNumbers(String seq_type) in C:\Development\SwitchLink.Switch\SwitchLink.Data\TransactionData.cs:line 58
+   at SwitchLink.ProtocalFactory.Helper.RRN_Sequence.get_TranSeqNo() in C:\Development\SwitchLink.Switch\Framework\SwitchLink.ProtocalFactory\Helper\RRN_Sequence.cs:line 24
+   at SwitchLink.ProtocalFactory.TritonNode.Models.TransactionModel.Create(String[] results, String request) in C:\Development\SwitchLink.Switch\Framework\SwitchLink.ProtocalFactory\TritonNode\Models\TransactionModel.cs:line 36
+2016-03-15 16:12:03,521 [10] ERROR SwitchLink.ProtocalFactory.TritonNode.Models.TransactionModel [(null)] - Authentication to host 'localhost' for user 'root' using method 'mysql_native_password' failed with message: Reading from the stream has failed. Stack:    at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed(Exception ex)
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(Boolean reset)
+   at MySql.Data.MySqlClient.NativeDriver.Authenticate(String authMethod, Boolean reset)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at SwitchLink.Data.BaseData.GetOpenConnection() in C:\Development\SwitchLink.Switch\SwitchLink.Data\BaseData.cs:line 30
+   at SwitchLink.Data.TransactionData.GetSequenceNumbers(String seq_type) in C:\Development\SwitchLink.Switch\SwitchLink.Data\TransactionData.cs:line 58
+   at SwitchLink.ProtocalFactory.Helper.RRN_Sequence.get_TranSeqNo() in C:\Development\SwitchLink.Switch\Framework\SwitchLink.ProtocalFactory\Helper\RRN_Sequence.cs:line 24
+   at SwitchLink.ProtocalFactory.TritonNode.Models.TransactionModel.Create(String[] results, String request) in C:\Development\SwitchLink.Switch\Framework\SwitchLink.ProtocalFactory\TritonNode\Models\TransactionModel.cs:line 36
+2016-03-15 16:12:03,521 [8] ERROR SwitchLink.ProtocalFactory.TritonNode.Models.TransactionModel [(null)] - Authentication to host 'localhost' for user 'root' using method 'mysql_native_password' failed with message: Reading from the stream has failed. Stack:    at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed(Exception ex)
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(Boolean reset)
+   at MySql.Data.MySqlClient.NativeDriver.Authenticate(String authMethod, Boolean reset)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at SwitchLink.Data.BaseData.GetOpenConnection() in C:\Development\SwitchLink.Switch\SwitchLink.Data\BaseData.cs:line 30
+   at SwitchLink.Data.TransactionData.GetSequenceNumbers(String seq_type) in C:\Development\SwitchLink.Switch\SwitchLink.Data\TransactionData.cs:line 58
+   at SwitchLink.ProtocalFactory.Helper.RRN_Sequence.get_TranSeqNo() in C:\Development\SwitchLink.Switch\Framework\SwitchLink.ProtocalFactory\Helper\RRN_Sequence.cs:line 24
+   at SwitchLink.ProtocalFactory.TritonNode.Models.TransactionModel.Create(String[] results, String request) in C:\Development\SwitchLink.Switch\Framework\SwitchLink.ProtocalFactory\TritonNode\Models\TransactionModel.cs:line 36
+2016-03-15 16:12:13,245 [4] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 16:12:13,245 [4] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 16:12:13,589 [33] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 16:12:13,589 [33] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 16:12:31,578 [34] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 16:12:31,578 [34] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 16:12:31,766 [5] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 16:12:31,766 [5] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 16:12:31,828 [33] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 16:12:31,828 [33] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 16:12:31,891 [34] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 16:12:31,891 [34] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 16:13:02,232 [58] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 16:14:10,852 [66] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 16:14:10,852 [66] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 16:14:10,852 [65] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 16:14:10,852 [65] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 16:14:37,515 [72] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 16:14:37,515 [72] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 16:19:11,494 [53] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 16:19:11,494 [52] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 16:19:11,494 [63] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 16:19:11,494 [63] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 16:19:11,494 [70] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 16:19:11,494 [51] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 16:19:11,494 [70] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 16:19:11,494 [51] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 16:19:51,574 [51] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 16:19:51,574 [70] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 16:19:51,574 [51] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 16:19:51,574 [30] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 16:19:51,574 [30] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 16:19:51,574 [31] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 16:19:51,574 [32] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 16:19:51,574 [70] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 16:24:54,358 [20] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 16:24:54,358 [20] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 16:24:54,498 [19] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 16:24:54,498 [19] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 16:24:54,545 [21] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 16:24:54,545 [21] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 16:25:00,468 [20] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 16:25:00,468 [20] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 16:25:00,718 [21] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 16:25:00,718 [21] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 16:25:00,765 [20] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 16:25:00,765 [20] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 16:25:10,796 [5] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 16:25:10,796 [5] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 16:25:20,514 [19] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 16:25:20,514 [19] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 16:25:20,671 [20] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 16:25:20,671 [20] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 16:25:20,968 [19] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 16:25:20,968 [19] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 16:25:53,406 [34] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 16:25:53,406 [34] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 16:25:53,406 [33] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 16:25:53,406 [33] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 16:26:00,531 [34] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 16:26:00,734 [33] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 16:26:00,734 [33] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 16:26:00,874 [36] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 16:26:00,874 [36] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 16:26:15,686 [45] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 16:26:15,686 [46] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 16:26:15,686 [39] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 16:26:15,686 [32] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 16:26:15,701 [47] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 16:26:15,717 [43] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 16:35:08,363 [78] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 16:35:08,363 [78] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 16:35:08,363 [75] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 16:35:08,363 [75] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 16:35:08,363 [58] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 16:35:08,363 [71] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 16:35:08,363 [58] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 16:35:09,332 [67] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 16:35:09,332 [67] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 16:35:09,581 [52] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 16:35:09,581 [51] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank

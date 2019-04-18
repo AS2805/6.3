@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\Herts_Switch\Core_Node\SwitchLink.CoreNode.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Herts_Switch\Core_Node\SwitchLink.CoreNode.InstallLog
+   assemblypath = C:\Herts_Switch\Core_Node\SwitchLink.CoreNode.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Herts_Switch\Core_Node\SwitchLink.CoreNode.exe assembly.
+Committing assembly 'C:\Herts_Switch\Core_Node\SwitchLink.CoreNode.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Herts_Switch\Core_Node\SwitchLink.CoreNode.InstallLog
+   assemblypath = C:\Herts_Switch\Core_Node\SwitchLink.CoreNode.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Herts_Switch\Core_Node\SwitchLink.CoreNode.exe assembly.
+Remove InstallState file because there are no installers.
