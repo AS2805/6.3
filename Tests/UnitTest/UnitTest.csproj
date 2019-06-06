@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\..\packages\Microsoft.Net.Compilers.1.1.1\build\Microsoft.Net.Compilers.props" Condition="Exists('..\..\packages\Microsoft.Net.Compilers.1.1.1\build\Microsoft.Net.Compilers.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DB8FC1E3-50DD-40C2-95BB-11345EDE3F82}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>UnitTest</RootNamespace>
+    <AssemblyName>UnitTest</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+    <ReferencePath>$(ProgramFiles)\Common Files\microsoft shared\VSTT\$(VisualStudioVersion)\UITestExtensionPackages</ReferencePath>
+    <IsCodedUITest>False</IsCodedUITest>
+    <TestProjectType>UnitTest</TestProjectType>
+    <NuGetPackageImportStamp>891e059a</NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Label="SlowCheetah">
+    <SlowCheetahToolsPath>$([System.IO.Path]::GetFullPath( $(MSBuildProjectDirectory)\..\..\packages\SlowCheetah.2.5.15\tools\))</SlowCheetahToolsPath>
+    <SlowCheetah_EnableImportFromNuGet Condition=" '$(SlowCheetah_EnableImportFromNuGet)'=='' ">true</SlowCheetah_EnableImportFromNuGet>
+    <SlowCheetah_NuGetImportPath Condition=" '$(SlowCheetah_NuGetImportPath)'=='' ">$([System.IO.Path]::GetFullPath( $(MSBuildProjectDirectory)\Properties\SlowCheetah\SlowCheetah.Transforms.targets ))</SlowCheetah_NuGetImportPath>
+    <SlowCheetahTargets Condition=" '$(SlowCheetah_EnableImportFromNuGet)'=='true' and Exists('$(SlowCheetah_NuGetImportPath)') ">$(SlowCheetah_NuGetImportPath)</SlowCheetahTargets>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="log4net, Version=1.2.15.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\log4net.2.0.5\lib\net45-full\log4net.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.9.8.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="nunit.framework">
+      <HintPath>..\..\packages\NUnit.3.0.1\lib\net45\nunit.framework.dll</HintPath>
+    </Reference>
+    <Reference Include="Rhino.Mocks, Version=3.6.0.0, Culture=neutral, PublicKeyToken=0b3305902db7183f, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\packages\RhinoMocks.3.6.1\lib\net\Rhino.Mocks.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+  </ItemGroup>
+  <Choose>
+    <When Condition="('$(VisualStudioVersion)' == '10.0' or '$(VisualStudioVersion)' == '') and '$(TargetFrameworkVersion)' == 'v3.5'">
+      <ItemGroup>
+        <Reference Include="Microsoft.VisualStudio.QualityTools.UnitTestFramework, Version=10.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+      </ItemGroup>
+    </When>
+    <Otherwise>
+      <ItemGroup>
+        <Reference Include="Microsoft.VisualStudio.QualityTools.UnitTestFramework">
+          <Private>False</Private>
+        </Reference>
+      </ItemGroup>
+    </Otherwise>
+  </Choose>
+  <ItemGroup>
+    <Compile Include="AS2805\As2805Message.cs" />
+    <Compile Include="AS2805\Helper\AS2805Helper.cs" />
+    <Compile Include="AS2805\Helper\BaseMessageHelper.cs" />
+    <Compile Include="AS2805\Helper\StringExtensions.cs" />
+    <Compile Include="Helper\AtmRequestHelper.cs" />
+    <Compile Include="MessageTest.cs" />
+    <Compile Include="Format.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UnitTest_Data.cs" />
+    <Compile Include="UnitTest_TritonNode.cs" />
+    <Compile Include="UnitTest_Diagnostics.cs" />
+    <Compile Include="UnitTest_TestAS2805Message.cs" />
+    <Compile Include="AS2805_Message.cs" />
+    <Compile Include="UnitTest_ScsFramework.cs" />
+    <Compile Include="UnitTest_HostCryptography.cs">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="UnitTest_RMI.cs" />
+    <Compile Include="UnitTest_TerminalCryptography.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Framework\Scs\Scs.csproj">
+      <Project>{0dc81b09-3abf-4bb3-8c08-4e8ee4432bdc}</Project>
+      <Name>Scs</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Framework\SwitchLink.Comm.Interfaces\SwitchLink.Comm.Interfaces.csproj">
+      <Project>{c4bba09f-eec9-46f3-8349-d1d81e7d27a4}</Project>
+      <Name>SwitchLink.Comm.Interfaces</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Framework\SwitchLink.ProtocalFactory\SwitchLink.ProtocalFactory.csproj">
+      <Project>{932ed16a-81cf-4576-b3b9-0231384b0456}</Project>
+      <Name>SwitchLink.ProtocalFactory</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\SwitchLink.CoreNode\SwitchLink.CoreNode.csproj">
+      <Project>{a86b9664-80c0-4cd9-8741-1e05e77e9955}</Project>
+      <Name>SwitchLink.CoreNode</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\SwitchLink.Cryptography\SwitchLink.Cryptography.csproj">
+      <Project>{55f7ef1c-ae2a-46e1-ab42-35df52de00bf}</Project>
+      <Name>SwitchLink.Cryptography</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\SwitchLink.Data\SwitchLink.Data.csproj">
+      <Project>{982D2D69-CC7E-4FDA-B98F-FA6A81959B83}</Project>
+      <Name>SwitchLink.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Switchlink.Diagnostics\Switchlink.Diagnostics.csproj">
+      <Project>{7c938397-2d31-4ebe-a3b6-5172b2e79fd8}</Project>
+      <Name>Switchlink.Diagnostics</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\SwitchLink.HostNode\SwitchLink.HostNode.csproj">
+      <Project>{2dc40721-1044-4f16-9661-0cacdf589982}</Project>
+      <Name>SwitchLink.HostNode</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\SwitchLink.Triton\SwitchLink.TritonNode.csproj">
+      <Project>{6c7d6c48-a86e-48a4-9dc1-822999de2a86}</Project>
+      <Name>SwitchLink.TritonNode</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BankSimulator\BankSimulator.csproj">
+      <Project>{ca56751d-461e-403b-99a2-7cef7ab2e1a2}</Project>
+      <Name>BankSimulator</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Choose>
+    <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
+      <ItemGroup>
+        <Reference Include="Microsoft.VisualStudio.QualityTools.CodedUITestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+          <Private>False</Private>
+        </Reference>
+        <Reference Include="Microsoft.VisualStudio.TestTools.UITest.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+          <Private>False</Private>
+        </Reference>
+        <Reference Include="Microsoft.VisualStudio.TestTools.UITest.Extension, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+          <Private>False</Private>
+        </Reference>
+        <Reference Include="Microsoft.VisualStudio.TestTools.UITesting, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+          <Private>False</Private>
+        </Reference>
+      </ItemGroup>
+    </When>
+  </Choose>
+  <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Enable NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\..\packages\Microsoft.Net.Compilers.1.1.1\build\Microsoft.Net.Compilers.props')" Text="$([System.String]::Format('$(ErrorText)', '..\..\packages\Microsoft.Net.Compilers.1.1.1\build\Microsoft.Net.Compilers.props'))" />
+  </Target>
+  <Import Project="$(SlowCheetahTargets)" Condition="Exists('$(SlowCheetahTargets)')" Label="SlowCheetah" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

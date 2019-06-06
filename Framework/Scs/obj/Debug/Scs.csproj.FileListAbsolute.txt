@@ -1,0 +1,6 @@
+C:\Development\SwitchLink.Switch\Framework\Scs\bin\Debug\Scs.XML
+C:\Development\SwitchLink.Switch\Framework\Scs\bin\Debug\Scs.dll
+C:\Development\SwitchLink.Switch\Framework\Scs\bin\Debug\Scs.pdb
+C:\Development\SwitchLink.Switch\Framework\Scs\obj\Debug\Scs.csprojResolveAssemblyReference.cache
+C:\Development\SwitchLink.Switch\Framework\Scs\obj\Debug\Scs.dll
+C:\Development\SwitchLink.Switch\Framework\Scs\obj\Debug\Scs.pdb

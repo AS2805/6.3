@@ -1,0 +1,8 @@
+C:\Development\SwitchLink.Switch\SwitchLink.Logger\bin\Debug\SwitchLink.Logger.exe
+C:\Development\SwitchLink.Switch\SwitchLink.Logger\bin\Debug\SwitchLink.Logger.pdb
+C:\Development\SwitchLink.Switch\SwitchLink.Logger\bin\Debug\log4net.dll
+C:\Development\SwitchLink.Switch\SwitchLink.Logger\bin\Debug\MySql.Data.dll
+C:\Development\SwitchLink.Switch\SwitchLink.Logger\bin\Debug\log4net.xml
+C:\Development\SwitchLink.Switch\SwitchLink.Logger\obj\Debug\SwitchLink.Logger.csprojResolveAssemblyReference.cache
+C:\Development\SwitchLink.Switch\SwitchLink.Logger\obj\Debug\SwitchLink.Logger.exe
+C:\Development\SwitchLink.Switch\SwitchLink.Logger\obj\Debug\SwitchLink.Logger.pdb

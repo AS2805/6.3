@@ -1,0 +1,9 @@
+C:\Development\SwitchLink.Switch\SwitchLink.Data\bin\Release\SwitchLink.Data.dll
+C:\Development\SwitchLink.Switch\SwitchLink.Data\bin\Release\SwitchLink.Data.pdb
+C:\Development\SwitchLink.Switch\SwitchLink.Data\bin\Release\Dapper.dll
+C:\Development\SwitchLink.Switch\SwitchLink.Data\bin\Release\MySql.Data.dll
+C:\Development\SwitchLink.Switch\SwitchLink.Data\bin\Release\Dapper.pdb
+C:\Development\SwitchLink.Switch\SwitchLink.Data\bin\Release\Dapper.xml
+C:\Development\SwitchLink.Switch\SwitchLink.Data\obj\Release\SwitchLink.Data.csprojResolveAssemblyReference.cache
+C:\Development\SwitchLink.Switch\SwitchLink.Data\obj\Release\SwitchLink.Data.dll
+C:\Development\SwitchLink.Switch\SwitchLink.Data\obj\Release\SwitchLink.Data.pdb

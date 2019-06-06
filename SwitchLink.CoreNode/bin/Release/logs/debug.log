@@ -1,0 +1,4 @@
+2016-03-15 14:33:57,716 [11] INFO  SwitchLink.CoreNode.SocketServer.CoreNode [(null)] - A new client is connected. Client Id = 2df7c18b-c690-4dd6-b3c3-f02c928a9b64
+2016-03-15 14:33:57,762 [15] DEBUG SwitchLink.CoreNode.Services.CryptographyService [(null)] - Geting Name location for Terminal
+2016-03-15 14:33:57,763 [15] DEBUG SwitchLink.CoreNode.Services.ReversalService [(null)] - Constructing Core Request Object
+2016-03-15 14:33:57,763 [15] DEBUG SwitchLink.CoreNode.Services.CoreNodeRequestService [(null)] - Sending Core Request Object

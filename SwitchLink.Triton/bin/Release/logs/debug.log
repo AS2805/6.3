@@ -1,0 +1,582 @@
+2016-03-15 14:33:31,784 [12] DEBUG SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Sent Enq to Client Id = ba038b1a-bb75-473c-8e71-b0f6eafe0eb5
+2016-03-15 14:33:31,802 [12] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A new client is connected. Client Id: 05a995be-4264-4231-8e81-095c62fe4bd6, Address:tcp://10.211.55.11:39213 
+2016-03-15 14:33:31,803 [12] DEBUG SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Sent Enq to Client Id = 05a995be-4264-4231-8e81-095c62fe4bd6
+2016-03-15 14:33:31,822 [12] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A new client is connected. Client Id: d158842e-5529-456b-b6e5-c9d9336cbb75, Address:tcp://10.211.55.11:39214 
+2016-03-15 14:33:31,822 [12] DEBUG SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Sent Enq to Client Id = d158842e-5529-456b-b6e5-c9d9336cbb75
+2016-03-15 14:33:31,857 [12] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A new client is connected. Client Id: d9255cb2-f7a9-4bb6-bdb4-295cad00ea46, Address:tcp://10.211.55.11:39215 
+2016-03-15 14:33:31,858 [12] DEBUG SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Sent Enq to Client Id = d9255cb2-f7a9-4bb6-bdb4-295cad00ea46
+2016-03-15 14:33:31,876 [12] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A new client is connected. Client Id: 0a9f08b8-b7d6-4e65-89b9-1d58a8639b11, Address:tcp://10.211.55.11:39216 
+2016-03-15 14:33:31,877 [12] DEBUG SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Sent Enq to Client Id = 0a9f08b8-b7d6-4e65-89b9-1d58a8639b11
+2016-03-15 14:33:31,894 [12] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A new client is connected. Client Id: 6af77309-c0cc-4c3a-92d8-51a52579fd2e, Address:tcp://10.211.55.11:39217 
+2016-03-15 14:33:31,895 [12] DEBUG SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Sent Enq to Client Id = 6af77309-c0cc-4c3a-92d8-51a52579fd2e
+2016-03-15 14:33:31,912 [12] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A new client is connected. Client Id: c90d752b-fe71-4d5f-b816-dbf10e11841d, Address:tcp://10.211.55.11:39218 
+2016-03-15 14:33:31,913 [12] DEBUG SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Sent Enq to Client Id = c90d752b-fe71-4d5f-b816-dbf10e11841d
+2016-03-15 14:33:31,931 [12] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A new client is connected. Client Id: 6f47b71d-290d-4747-b07b-378869191af9, Address:tcp://10.211.55.11:39219 
+2016-03-15 14:33:31,931 [12] DEBUG SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Sent Enq to Client Id = 6f47b71d-290d-4747-b07b-378869191af9
+2016-03-15 14:33:31,954 [12] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A new client is connected. Client Id: c33f2eed-d99b-4936-b9f3-4e709ff26ead, Address:tcp://10.211.55.11:39220 
+2016-03-15 14:33:31,955 [12] DEBUG SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Sent Enq to Client Id = c33f2eed-d99b-4936-b9f3-4e709ff26ead
+2016-03-15 14:33:31,974 [12] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A new client is connected. Client Id: d5bd9dc0-d81d-49d3-9a07-42202dd14918, Address:tcp://10.211.55.11:39221 
+2016-03-15 14:33:31,974 [12] DEBUG SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Sent Enq to Client Id = d5bd9dc0-d81d-49d3-9a07-42202dd14918
+2016-03-15 14:33:32,007 [12] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A new client is connected. Client Id: eb28e9ca-8429-4422-a36f-873224408580, Address:tcp://10.211.55.11:39222 
+2016-03-15 14:33:32,008 [12] DEBUG SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Sent Enq to Client Id = eb28e9ca-8429-4422-a36f-873224408580
+2016-03-15 14:33:32,020 [39] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - <STX>PILOT   td8D2       <FS>SM200005       <FS>11<FS>0024<FS>4902370000002348=121210111234123<FS>00007000<FS>00000250<FS>EECCBD2A57B822E7<FS><FS><FS>VA6.00.18DV02.70.10 V06.01.12 0  0T  00 000     00000102K1229003200005K147600010000000000000000000000000000000000<FS>ub093A<FS><ETX>V
+2016-03-15 14:33:32,035 [12] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A new client is connected. Client Id: 9df9c45e-e3e7-4214-b2fa-65da0e84756e, Address:tcp://10.211.55.11:39224 
+2016-03-15 14:33:32,049 [39] DEBUG SwitchLink.TritonNode.Communication.Services.CoreCommunicationService [(null)] - Sending Request to Core Node: Track2 :4902370000002348=121210111234123
+Amount1 :7000
+Amount2 :250
+PinBlock :EECCBD2A57B822E7
+
+2016-03-15 14:33:32,050 [12] DEBUG SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Sent Enq to Client Id = 9df9c45e-e3e7-4214-b2fa-65da0e84756e
+2016-03-15 14:33:32,050 [12] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A new client is connected. Client Id: 2ca153c9-76e8-4a80-8d4d-30c3da4064ff, Address:tcp://10.211.55.11:39225 
+2016-03-15 14:33:32,051 [12] DEBUG SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Sent Enq to Client Id = 2ca153c9-76e8-4a80-8d4d-30c3da4064ff
+2016-03-15 14:33:32,074 [12] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A new client is connected. Client Id: e76d54a6-5a44-43a6-8158-d2ce0cfe2672, Address:tcp://10.211.55.11:39227 
+2016-03-15 14:33:32,075 [12] DEBUG SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Sent Enq to Client Id = e76d54a6-5a44-43a6-8158-d2ce0cfe2672
+2016-03-15 14:33:32,109 [12] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A new client is connected. Client Id: 47100ad4-78e1-4161-9a5f-9950e44c0fb5, Address:tcp://10.211.55.11:39229 
+2016-03-15 14:33:32,109 [12] DEBUG SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Sent Enq to Client Id = 47100ad4-78e1-4161-9a5f-9950e44c0fb5
+2016-03-15 14:33:32,524 [40] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - <STX>PILOT   td8D2       <FS>SM200005       <FS>12<FS>0025<FS>4902370000002348=121210111234123<FS>00021000<FS>00000250<FS>EECCBD2A57B822E7<FS><FS><FS>VA6.00.18DV02.70.10 V06.01.12 0  0T  00 110     00000502K1228003200005K147500010000000000000000000000000000000000<FS>ub093A<FS><ETX>V
+2016-03-15 14:33:32,542 [40] DEBUG SwitchLink.TritonNode.Communication.Services.CoreCommunicationService [(null)] - Sending Request to Core Node: Track2 :4902370000002348=121210111234123
+Amount1 :21000
+Amount2 :250
+PinBlock :EECCBD2A57B822E7
+
+2016-03-15 14:33:33,027 [15] DEBUG SwitchLink.TritonNode.Communication.Services.CoreCommunicationService [(null)] - Recieved Response from Core Node: Stan: 47254
+AmountTran: 28000
+AmtTranFee: 250
+AmountCash: 37974
+
+2016-03-15 14:33:33,027 [22] DEBUG SwitchLink.TritonNode.Communication.Services.CoreCommunicationService [(null)] - Recieved Response from Core Node: Stan: 47258
+AmountTran: 25000
+AmtTranFee: 250
+AmountCash: 35740
+
+2016-03-15 14:33:33,027 [11] DEBUG SwitchLink.TritonNode.Communication.Services.CoreCommunicationService [(null)] - Recieved Response from Core Node: Stan: 47256
+AmountTran: 37000
+AmtTranFee: 250
+AmountCash: 54868
+
+2016-03-15 14:33:33,028 [14] DEBUG SwitchLink.TritonNode.Communication.Services.CoreCommunicationService [(null)] - Recieved Response from Core Node: Stan: 47257
+AmountTran: 34000
+AmtTranFee: 250
+AmountCash: 90031
+
+2016-03-15 14:33:33,042 [25] DEBUG SwitchLink.TritonNode.Communication.Services.CoreCommunicationService [(null)] - Recieved Response from Core Node: Stan: 47261
+AmountTran: 39000
+AmtTranFee: 250
+AmountCash: 46322
+
+2016-03-15 14:33:33,043 [23] DEBUG SwitchLink.TritonNode.Communication.Services.CoreCommunicationService [(null)] - Recieved Response from Core Node: Stan: 47259
+AmountTran: 32000
+AmtTranFee: 250
+AmountCash: 46322
+
+2016-03-15 14:33:33,043 [30] DEBUG SwitchLink.TritonNode.Communication.Services.CoreCommunicationService [(null)] - Recieved Response from Core Node: Stan: 47266
+AmountTran: 19000
+AmtTranFee: 250
+AmountCash: 89707
+
+2016-03-15 14:33:33,043 [41] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - <STX>PILOT   td8D2       <FS>SM200005       <FS>11<FS>0026<FS>4902370000002348=121210111234123<FS>00009000<FS>00000250<FS>EECCBD2A57B822E7<FS><FS><FS>VA6.00.18DV02.70.10 V06.01.12 0  0T  00 000     00000102K1227003200005K147400010000000000000000000000000000000000<FS>ub093A<FS><ETX>V
+2016-03-15 14:33:33,047 [14] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - Starting to create transaction response
+2016-03-15 14:33:33,048 [22] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - Starting to create transaction response
+2016-03-15 14:33:33,053 [22] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - Message sent to ATM: <STX>            <FS>0<FS>SM200005       <FS>12<FS>0007<FS>000<FS>00047258<FS>031516<FS>143333<FS>031516<FS>00035740<FS>00000250<FS><FS><FS><FS><ETX>)
+2016-03-15 14:33:33,053 [15] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - Starting to create transaction response
+2016-03-15 14:33:33,053 [15] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - Message sent to ATM: <STX>            <FS>0<FS>SM200005       <FS>15<FS>0004<FS>000<FS>00047254<FS>031516<FS>143333<FS>031516<FS>00037974<FS>00000250<FS><FS><FS><FS><ETX>*
+2016-03-15 14:33:33,053 [15] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Ack sent
+2016-03-15 14:33:33,044 [36] DEBUG SwitchLink.TritonNode.Communication.Services.CoreCommunicationService [(null)] - Recieved Response from Core Node: Stan: 47269
+AmountTran: 31000
+AmtTranFee: 250
+AmountCash: 37452
+
+2016-03-15 14:33:33,055 [36] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - Starting to create transaction response
+2016-03-15 14:33:33,055 [36] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - Message sent to ATM: <STX>            <FS>0<FS>SM200005       <FS>15<FS>0021<FS>000<FS>00047269<FS>031516<FS>143333<FS>031516<FS>00037452<FS>00000250<FS><FS><FS><FS><ETX>*
+2016-03-15 14:33:33,044 [28] DEBUG SwitchLink.TritonNode.Communication.Services.CoreCommunicationService [(null)] - Recieved Response from Core Node: Stan: 47264
+AmountTran: 30000
+AmtTranFee: 250
+AmountCash: 30287
+
+2016-03-15 14:33:33,051 [30] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - Starting to create transaction response
+2016-03-15 14:33:33,055 [28] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - Starting to create transaction response
+2016-03-15 14:33:33,056 [28] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - Message sent to ATM: <STX>            <FS>0<FS>SM200005       <FS>15<FS>0013<FS>000<FS>00047264<FS>031516<FS>143333<FS>031516<FS>00030287<FS>00000250<FS><FS><FS><FS><ETX>/
+2016-03-15 14:33:33,052 [27] DEBUG SwitchLink.TritonNode.Communication.Services.CoreCommunicationService [(null)] - Recieved Response from Core Node: Stan: 47263
+AmountTran: 22000
+AmtTranFee: 250
+AmountCash: 30287
+
+2016-03-15 14:33:33,056 [28] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Ack sent
+2016-03-15 14:33:33,056 [27] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - Starting to create transaction response
+2016-03-15 14:33:33,057 [27] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - Message sent to ATM: <STX>            <FS>0<FS>SM200005       <FS>12<FS>0012<FS>000<FS>00047263<FS>031516<FS>143333<FS>031516<FS>00030287<FS>00000250<FS><FS><FS><FS><ETX>.
+2016-03-15 14:33:33,052 [23] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - Starting to create transaction response
+2016-03-15 14:33:33,057 [23] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - Message sent to ATM: <STX>            <FS>0<FS>SM200005       <FS>15<FS>0008<FS>000<FS>00047259<FS>031516<FS>143333<FS>031516<FS>00046322<FS>00000250<FS><FS><FS><FS><ETX>$
+2016-03-15 14:33:33,057 [23] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Ack sent
+2016-03-15 14:33:33,053 [22] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Ack sent
+2016-03-15 14:33:33,044 [35] DEBUG SwitchLink.TritonNode.Communication.Services.CoreCommunicationService [(null)] - Recieved Response from Core Node: Stan: 47268
+AmountTran: 17000
+AmtTranFee: 250
+AmountCash: 65126
+
+2016-03-15 14:33:33,059 [35] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - Starting to create transaction response
+2016-03-15 14:33:33,059 [35] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - Message sent to ATM: <STX>            <FS>0<FS>SM200005       <FS>12<FS>0020<FS>000<FS>00047268<FS>031516<FS>143333<FS>031516<FS>00065126<FS>00000250<FS><FS><FS><FS><ETX>,
+2016-03-15 14:33:33,044 [29] DEBUG SwitchLink.TritonNode.Communication.Services.CoreCommunicationService [(null)] - Recieved Response from Core Node: Stan: 47265
+AmountTran: 6000
+AmtTranFee: 250
+AmountCash: 30287
+
+2016-03-15 14:33:33,059 [35] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Ack sent
+2016-03-15 14:33:33,059 [29] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - Starting to create transaction response
+2016-03-15 14:33:33,060 [29] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - Message sent to ATM: <STX>            <FS>0<FS>SM200005       <FS>11<FS>0014<FS>000<FS>00047265<FS>031516<FS>143333<FS>031516<FS>00030287<FS>00000250<FS><FS><FS><FS><ETX>-
+2016-03-15 14:33:33,056 [30] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - Message sent to ATM: <STX>            <FS>0<FS>SM200005       <FS>12<FS>0015<FS>000<FS>00047266<FS>031516<FS>143333<FS>031516<FS>00089707<FS>00000250<FS><FS><FS><FS><ETX>#
+2016-03-15 14:33:33,060 [29] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Ack sent
+2016-03-15 14:33:33,052 [25] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - Starting to create transaction response
+2016-03-15 14:33:33,062 [25] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - Message sent to ATM: <STX>            <FS>0<FS>SM200005       <FS>15<FS>0010<FS>000<FS>00047261<FS>031516<FS>143333<FS>031516<FS>00046322<FS>00000250<FS><FS><FS><FS><ETX>&
+2016-03-15 14:33:33,057 [27] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Ack sent
+2016-03-15 14:33:33,062 [25] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Ack sent
+2016-03-15 14:33:33,044 [31] DEBUG SwitchLink.TritonNode.Communication.Services.CoreCommunicationService [(null)] - Recieved Response from Core Node: Stan: 47267
+AmountTran: 27000
+AmtTranFee: 250
+AmountCash: 65126
+
+2016-03-15 14:33:33,064 [31] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - Starting to create transaction response
+2016-03-15 14:33:33,064 [31] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - Message sent to ATM: <STX>            <FS>0<FS>SM200005       <FS>12<FS>0016<FS>000<FS>00047267<FS>031516<FS>143333<FS>031516<FS>00065126<FS>00000250<FS><FS><FS><FS><ETX>&
+2016-03-15 14:33:33,052 [24] DEBUG SwitchLink.TritonNode.Communication.Services.CoreCommunicationService [(null)] - Recieved Response from Core Node: Stan: 47260
+AmountTran: 8000
+AmtTranFee: 250
+AmountCash: 46322
+
+2016-03-15 14:33:33,064 [24] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - Starting to create transaction response
+2016-03-15 14:33:33,064 [24] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - Message sent to ATM: <STX>            <FS>0<FS>SM200005       <FS>11<FS>0009<FS>000<FS>00047260<FS>031516<FS>143333<FS>031516<FS>00046322<FS>00000250<FS><FS><FS><FS><ETX>+
+2016-03-15 14:33:33,066 [24] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Ack sent
+2016-03-15 14:33:33,055 [36] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Ack sent
+2016-03-15 14:33:33,060 [30] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Ack sent
+2016-03-15 14:33:33,043 [26] DEBUG SwitchLink.TritonNode.Communication.Services.CoreCommunicationService [(null)] - Recieved Response from Core Node: Stan: 47262
+AmountTran: 29000
+AmtTranFee: 250
+AmountCash: 30287
+
+2016-03-15 14:33:33,067 [26] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - Starting to create transaction response
+2016-03-15 14:33:33,067 [26] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - Message sent to ATM: <STX>            <FS>0<FS>SM200005       <FS>15<FS>0011<FS>000<FS>00047262<FS>031516<FS>143333<FS>031516<FS>00030287<FS>00000250<FS><FS><FS><FS><ETX>+
+2016-03-15 14:33:33,067 [26] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Ack sent
+2016-03-15 14:33:33,064 [31] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Ack sent
+2016-03-15 14:33:33,093 [15] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Stx Sent : count (1)
+2016-03-15 14:33:33,094 [15] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - <STX>PILOT   td8D2       <FS>SM200005       <FS>12<FS>0027<FS>4902370000002348=121210111234123<FS>00023000<FS>00000250<FS>EECCBD2A57B822E7<FS><FS><FS>VA6.00.18DV02.70.10 V06.01.12 0  0T  00 110     00000502K1226003200005K147300010000000000000000000000000000000000<FS>ub093A<FS><ETX>V
+2016-03-15 14:33:33,094 [36] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Stx Sent : count (1)
+2016-03-15 14:33:33,097 [30] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Stx Sent : count (1)
+2016-03-15 14:33:33,100 [29] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Stx Sent : count (1)
+2016-03-15 14:33:33,100 [36] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - <STX>PILOT   td8D2       <FS>SM200005       <FS>15<FS>0028<FS>4902370000002348=121210111234123<FS>00037000<FS>00000250<FS>EECCBD2A57B822E7<FS><FS><FS>VA6.00.18DV02.70.10 V06.01.12 0  0T  00 110     00000902K1225003200005K147200010000000000000000000000000000000000<FS>ub093A<FS><ETX>V
+2016-03-15 14:33:33,096 [34] DEBUG SwitchLink.TritonNode.Communication.Services.CoreCommunicationService [(null)] - Recieved Response from Core Node: Stan: 47270
+AmountTran: 3000
+AmtTranFee: 250
+AmountCash: 40545
+
+2016-03-15 14:33:33,105 [34] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - Starting to create transaction response
+2016-03-15 14:33:33,105 [34] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - Message sent to ATM: <STX>            <FS>0<FS>SM200005       <FS>11<FS>0019<FS>000<FS>00047270<FS>031516<FS>143333<FS>031516<FS>00040545<FS>00000250<FS><FS><FS><FS><ETX>*
+2016-03-15 14:33:33,095 [31] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Stx Sent : count (1)
+2016-03-15 14:33:33,106 [34] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Ack sent
+2016-03-15 14:33:33,110 [31] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - <STX>PILOT   td8D2       <FS>SM200005       <FS>12<FS>0029<FS>4902370000002348=121210111234123<FS>00027000<FS>00000250<FS>EECCBD2A57B822E7<FS><FS><FS>VA6.00.18DV02.70.10 V06.01.12 0  0T  00 110     00000602K1224003200005K147100010000000000000000000000000000000000<FS>ub093A<FS><ETX>V
+2016-03-15 14:33:33,102 [33] DEBUG SwitchLink.TritonNode.Communication.Services.CoreCommunicationService [(null)] - Recieved Response from Core Node: Stan: 47271
+AmountTran: 34000
+AmtTranFee: 250
+AmountCash: 31999
+
+2016-03-15 14:33:33,114 [33] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - Starting to create transaction response
+2016-03-15 14:33:33,115 [33] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - Message sent to ATM: <STX>            <FS>0<FS>SM200005       <FS>15<FS>0018<FS>000<FS>00047271<FS>031516<FS>143333<FS>031516<FS>00031999<FS>00000250<FS><FS><FS><FS><ETX>%
+2016-03-15 14:33:33,111 [29] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - <STX>PILOT   td8D2       <FS>SM200005       <FS>11<FS>0030<FS>4902370000002348=121210111234123<FS>00004000<FS>00000250<FS>EECCBD2A57B822E7<FS><FS><FS>VA6.00.18DV02.70.10 V06.01.12 0  0T  00 000     03400002K1223003200005K147000010000000000000000000000000000000000<FS>ub093A<FS><ETX>V
+2016-03-15 14:33:33,116 [33] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Ack sent
+2016-03-15 14:33:33,131 [26] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Stx Sent : count (1)
+2016-03-15 14:33:33,132 [30] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - <STX>PILOT   td8D2       <FS>SM200005       <FS>11<FS>0031<FS>4902370000002348=121210111234123<FS>00011000<FS>00000250<FS>EECCBD2A57B822E7<FS><FS><FS>VA6.00.18DV02.70.10 V06.01.12 0  0T  00 000     00000202K1222003200005K146900010000000000000000000000000000000000<FS>ub093A<FS><ETX>V
+2016-03-15 14:33:33,133 [33] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Stx Sent : count (1)
+2016-03-15 14:33:33,134 [34] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Stx Sent : count (1)
+2016-03-15 14:33:33,136 [22] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Stx Sent : count (1)
+2016-03-15 14:33:33,137 [23] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Stx Sent : count (1)
+2016-03-15 14:33:33,138 [24] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Stx Sent : count (1)
+2016-03-15 14:33:33,140 [11] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - Starting to create transaction response
+2016-03-15 14:33:33,191 [24] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - <STX>PILOT   td8D2       <FS>SM200005       <FS>15<FS>0033<FS>4902370000002348=121210111234123<FS>00038000<FS>00000250<FS>EECCBD2A57B822E7<FS><FS><FS>VA6.00.18DV02.70.10 V06.01.12 0  0T  00 110     00000902K1220003200005K146700010000000000000000000000000000000000<FS>ub093A<FS><ETX>V
+2016-03-15 14:33:33,138 [25] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Stx Sent : count (1)
+2016-03-15 14:33:33,191 [26] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - <STX>PILOT   td8D2       <FS>SM200005       <FS>12<FS>0035<FS>4902370000002348=121210111234123<FS>00015000<FS>00000250<FS>EECCBD2A57B822E7<FS><FS><FS>VA6.00.18DV02.70.10 V06.01.12 0  0T  00 000     00000302K1218003200005K146500010000000000000000000000000000000000<FS>ub093A<FS><ETX>V
+2016-03-15 14:33:33,191 [27] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Stx Sent : count (1)
+2016-03-15 14:33:33,190 [28] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Stx Sent : count (1)
+2016-03-15 14:33:33,189 [34] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - <STX>PILOT   td8D2       <FS>SM200005       <FS>15<FS>0036<FS>4902370000002348=121210111234123<FS>00029000<FS>00000250<FS>EECCBD2A57B822E7<FS><FS><FS>VA6.00.18DV02.70.10 V06.01.12 0  0T  00 110     00000702K1217003200005K146400010000000000000000000000000000000000<FS>ub093A<FS><ETX>V
+2016-03-15 14:33:33,189 [35] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Stx Sent : count (1)
+2016-03-15 14:33:33,187 [22] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - <STX>PILOT   td8D2       <FS>SM200005       <FS>12<FS>0032<FS>4902370000002348=121210111234123<FS>00025000<FS>00000250<FS>EECCBD2A57B822E7<FS><FS><FS>VA6.00.18DV02.70.10 V06.01.12 0  0T  00 110     00000602K1221003200005K146800010000000000000000000000000000000000<FS>ub093A<FS><ETX>V
+2016-03-15 14:33:33,191 [23] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - <STX>PILOT   td8D2       <FS>SM200005       <FS>11<FS>0034<FS>4902370000002348=121210111234123<FS>00008000<FS>00000250<FS>EECCBD2A57B822E7<FS><FS><FS>VA6.00.18DV02.70.10 V06.01.12 0  0T  00 000     00000102K1219003200005K146600010000000000000000000000000000000000<FS>ub093A<FS><ETX>V
+2016-03-15 14:33:33,267 [31] DEBUG SwitchLink.TritonNode.Communication.Services.CoreCommunicationService [(null)] - Sending Request to Core Node: Track2 :4902370000002348=121210111234123
+Amount1 :27000
+Amount2 :250
+PinBlock :EECCBD2A57B822E7
+
+2016-03-15 14:33:33,253 [36] DEBUG SwitchLink.TritonNode.Communication.Services.CoreCommunicationService [(null)] - Sending Request to Core Node: Track2 :4902370000002348=121210111234123
+Amount1 :37000
+Amount2 :250
+PinBlock :EECCBD2A57B822E7
+
+2016-03-15 14:33:33,224 [41] DEBUG SwitchLink.TritonNode.Communication.Services.CoreCommunicationService [(null)] - Sending Request to Core Node: Track2 :4902370000002348=121210111234123
+Amount1 :9000
+Amount2 :250
+PinBlock :EECCBD2A57B822E7
+
+2016-03-15 14:33:33,298 [30] DEBUG SwitchLink.TritonNode.Communication.Services.CoreCommunicationService [(null)] - Sending Request to Core Node: Track2 :4902370000002348=121210111234123
+Amount1 :11000
+Amount2 :250
+PinBlock :EECCBD2A57B822E7
+
+2016-03-15 14:33:33,224 [33] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - <STX>PILOT   td8D2       <FS>SM200005       <FS>12<FS>0037<FS>4902370000002348=121210111234123<FS>00023000<FS>00000250<FS>EECCBD2A57B822E7<FS><FS><FS>VA6.00.18DV02.70.10 V06.01.12 0  0T  00 110     00000502K1216003200005K146300010000000000000000000000000000000000<FS>ub093A<FS><ETX>V
+2016-03-15 14:33:33,303 [35] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - <STX>PILOT   td8D2       <FS>SM200005       <FS>15<FS>0038<FS>4902370000002348=121210111234123<FS>00036000<FS>00000250<FS>EECCBD2A57B822E7<FS><FS><FS>VA6.00.18DV02.70.10 V06.01.12 0  0T  00 110     00000902K1215003200005K146200010000000000000000000000000000000000<FS>ub093A<FS><ETX>V
+2016-03-15 14:33:33,267 [29] DEBUG SwitchLink.TritonNode.Communication.Services.CoreCommunicationService [(null)] - Sending Request to Core Node: Track2 :4902370000002348=121210111234123
+Amount1 :4000
+Amount2 :250
+PinBlock :EECCBD2A57B822E7
+
+2016-03-15 14:33:33,253 [15] DEBUG SwitchLink.TritonNode.Communication.Services.CoreCommunicationService [(null)] - Sending Request to Core Node: Track2 :4902370000002348=121210111234123
+Amount1 :23000
+Amount2 :250
+PinBlock :EECCBD2A57B822E7
+
+2016-03-15 14:33:33,305 [27] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - <STX>PILOT   td8D2       <FS>SM200005       <FS>11<FS>0040<FS>4902370000002348=121210111234123<FS>00013000<FS>00000250<FS>EECCBD2A57B822E7<FS><FS><FS>VA6.00.18DV02.70.10 V06.01.12 0  0T  00 000     00000302K1213003200005K146000010000000000000000000000000000000000<FS>ub093A<FS><ETX>V
+2016-03-15 14:33:33,305 [28] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - <STX>PILOT   td8D2       <FS>SM200005       <FS>12<FS>0041<FS>4902370000002348=121210111234123<FS>00027000<FS>00000250<FS>EECCBD2A57B822E7<FS><FS><FS>VA6.00.18DV02.70.10 V06.01.12 0  0T  00 110     00000602K1212003200005K145900010000000000000000000000000000000000<FS>ub093A<FS><ETX>V
+2016-03-15 14:33:33,051 [14] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - Message sent to ATM: <STX>            <FS>0<FS>SM200005       <FS>15<FS>0003<FS>000<FS>00047257<FS>031516<FS>143333<FS>031516<FS>00090031<FS>00000250<FS><FS><FS><FS><ETX>+
+2016-03-15 14:33:33,304 [25] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - <STX>PILOT   td8D2       <FS>SM200005       <FS>11<FS>0039<FS>4902370000002348=121210111234123<FS>00006000<FS>00000250<FS>EECCBD2A57B822E7<FS><FS><FS>VA6.00.18DV02.70.10 V06.01.12 0  0T  00 000     00000102K1214003200005K146100010000000000000000000000000000000000<FS>ub093A<FS><ETX>V
+2016-03-15 14:33:33,340 [14] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Ack sent
+2016-03-15 14:33:33,373 [14] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Stx Sent : count (1)
+2016-03-15 14:33:33,434 [14] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - <STX>PILOT   td8D2       <FS>SM200005       <FS>11<FS>0042<FS>4902370000002348=121210111234123<FS>00002000<FS>00000250<FS>EECCBD2A57B822E7<FS><FS><FS>VA6.00.18DV02.70.10 V06.01.12 0  0T  00 000     03300002K1211003200005K145800010000000000000000000000000000000000<FS>ub093A<FS><ETX>V
+2016-03-15 14:33:33,298 [11] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - Message sent to ATM: <STX>            <FS>0<FS>SM200005       <FS>15<FS>0001<FS>000<FS>00047256<FS>031516<FS>143333<FS>031516<FS>00054868<FS>00000250<FS><FS><FS><FS><ETX>$
+2016-03-15 14:33:33,511 [34] DEBUG SwitchLink.TritonNode.Communication.Services.CoreCommunicationService [(null)] - Sending Request to Core Node: Track2 :4902370000002348=121210111234123
+Amount1 :29000
+Amount2 :250
+PinBlock :EECCBD2A57B822E7
+
+2016-03-15 14:33:33,511 [26] DEBUG SwitchLink.TritonNode.Communication.Services.CoreCommunicationService [(null)] - Sending Request to Core Node: Track2 :4902370000002348=121210111234123
+Amount1 :15000
+Amount2 :250
+PinBlock :EECCBD2A57B822E7
+
+2016-03-15 14:33:33,511 [24] DEBUG SwitchLink.TritonNode.Communication.Services.CoreCommunicationService [(null)] - Sending Request to Core Node: Track2 :4902370000002348=121210111234123
+Amount1 :38000
+Amount2 :250
+PinBlock :EECCBD2A57B822E7
+
+2016-03-15 14:33:33,480 [22] DEBUG SwitchLink.TritonNode.Communication.Services.CoreCommunicationService [(null)] - Sending Request to Core Node: Track2 :4902370000002348=121210111234123
+Amount1 :25000
+Amount2 :250
+PinBlock :EECCBD2A57B822E7
+
+2016-03-15 14:33:33,561 [11] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Ack sent
+2016-03-15 14:33:33,658 [14] DEBUG SwitchLink.TritonNode.Communication.Services.CoreCommunicationService [(null)] - Sending Request to Core Node: Track2 :4902370000002348=121210111234123
+Amount1 :2000
+Amount2 :250
+PinBlock :EECCBD2A57B822E7
+
+2016-03-15 14:33:33,668 [11] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Stx Sent : count (1)
+2016-03-15 14:33:33,669 [11] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - <STX>PILOT   td8D2       <FS>SM200005       <FS>12<FS>0044<FS>4902370000002348=121210111234123<FS>00023000<FS>00000250<FS>EECCBD2A57B822E7<FS><FS><FS>VA6.00.18DV02.70.10 V06.01.12 0  0T  00 110     00000502K1209003200005K145600010000000000000000000000000000000000<FS>ub093A<FS><ETX>V
+2016-03-15 14:33:33,683 [43] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - <STX>PILOT   td8D2       <FS>SM200005       <FS>15<FS>0043<FS>4902370000002348=121210111234123<FS>00034000<FS>00000250<FS>EECCBD2A57B822E7<FS><FS><FS>VA6.00.18DV02.70.10 V06.01.12 0  0T  00 110     00000802K1210003200005K145700010000000000000000000000000000000000<FS>ub093A<FS><ETX>V
+2016-03-15 14:33:33,760 [43] DEBUG SwitchLink.TritonNode.Communication.Services.CoreCommunicationService [(null)] - Sending Request to Core Node: Track2 :4902370000002348=121210111234123
+Amount1 :34000
+Amount2 :250
+PinBlock :EECCBD2A57B822E7
+
+2016-03-15 14:33:33,773 [11] DEBUG SwitchLink.TritonNode.Communication.Services.CoreCommunicationService [(null)] - Sending Request to Core Node: Track2 :4902370000002348=121210111234123
+Amount1 :23000
+Amount2 :250
+PinBlock :EECCBD2A57B822E7
+
+2016-03-15 14:33:33,913 [17] ERROR SwitchLink.ProtocalFactory.TritonNode.Models.TransactionModel [(null)] - Authentication to host 'localhost' for user 'root' using method 'mysql_native_password' failed with message: Reading from the stream has failed. Stack:    at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed(Exception ex)
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(Boolean reset)
+   at MySql.Data.MySqlClient.NativeDriver.Authenticate(String authMethod, Boolean reset)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at SwitchLink.Data.BaseData.GetOpenConnection() in C:\Development\SwitchLink.Switch\SwitchLink.Data\BaseData.cs:line 30
+   at SwitchLink.Data.TransactionData.GetSequenceNumbers(String seq_type) in C:\Development\SwitchLink.Switch\SwitchLink.Data\TransactionData.cs:line 58
+   at SwitchLink.ProtocalFactory.Helper.RRN_Sequence.get_TranSeqNo() in C:\Development\SwitchLink.Switch\Framework\SwitchLink.ProtocalFactory\Helper\RRN_Sequence.cs:line 24
+   at SwitchLink.ProtocalFactory.TritonNode.Models.TransactionModel.Create(String[] results, String request) in C:\Development\SwitchLink.Switch\Framework\SwitchLink.ProtocalFactory\TritonNode\Models\TransactionModel.cs:line 36
+2016-03-15 14:33:33,915 [16] ERROR SwitchLink.ProtocalFactory.TritonNode.Models.TransactionModel [(null)] - Authentication to host 'localhost' for user 'root' using method 'mysql_native_password' failed with message: Reading from the stream has failed. Stack:    at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed(Exception ex)
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(Boolean reset)
+   at MySql.Data.MySqlClient.NativeDriver.Authenticate(String authMethod, Boolean reset)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at SwitchLink.Data.BaseData.GetOpenConnection() in C:\Development\SwitchLink.Switch\SwitchLink.Data\BaseData.cs:line 30
+   at SwitchLink.Data.TransactionData.GetSequenceNumbers(String seq_type) in C:\Development\SwitchLink.Switch\SwitchLink.Data\TransactionData.cs:line 58
+   at SwitchLink.ProtocalFactory.Helper.RRN_Sequence.get_TranSeqNo() in C:\Development\SwitchLink.Switch\Framework\SwitchLink.ProtocalFactory\Helper\RRN_Sequence.cs:line 24
+   at SwitchLink.ProtocalFactory.TritonNode.Models.TransactionModel.Create(String[] results, String request) in C:\Development\SwitchLink.Switch\Framework\SwitchLink.ProtocalFactory\TritonNode\Models\TransactionModel.cs:line 36
+2016-03-15 14:33:33,983 [17] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A client is disconnected!. Client Id: 2b091492-5c7a-4f69-984d-b0174969b986, Address:tcp://10.211.55.11:39108 
+2016-03-15 14:33:33,983 [16] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A client is disconnected!. Client Id: c6a4630c-c1bd-4799-8444-20cccee5e24a, Address:tcp://10.211.55.11:39107 
+2016-03-15 14:33:33,984 [17] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - <STX>PILOT   td8D2       <FS>SM200005       <FS>12<FS>0045<FS>4902370000002348=121210111234123<FS>00017000<FS>00000250<FS>EECCBD2A57B822E7<FS><FS><FS>VA6.00.18DV02.70.10 V06.01.12 0  0T  00 000     00000402K1208003200005K145500010000000000000000000000000000000000<FS>ub093A<FS><ETX>V
+2016-03-15 14:33:33,984 [16] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - <STX>PILOT   td8D2       <FS>SM200005       <FS>12<FS>0046<FS>4902370000002348=121210111234123<FS>00025000<FS>00000250<FS>EECCBD2A57B822E7<FS><FS><FS>VA6.00.18DV02.70.10 V06.01.12 0  0T  00 110     00000602K1207003200005K145400010000000000000000000000000000000000<FS>ub093A<FS><ETX>V
+2016-03-15 14:33:34,019 [17] DEBUG SwitchLink.TritonNode.Communication.Services.CoreCommunicationService [(null)] - Sending Request to Core Node: Track2 :4902370000002348=121210111234123
+Amount1 :17000
+Amount2 :250
+PinBlock :EECCBD2A57B822E7
+
+2016-03-15 14:33:34,019 [16] DEBUG SwitchLink.TritonNode.Communication.Services.CoreCommunicationService [(null)] - Sending Request to Core Node: Track2 :4902370000002348=121210111234123
+Amount1 :25000
+Amount2 :250
+PinBlock :EECCBD2A57B822E7
+
+2016-03-15 14:33:34,029 [44] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - <STX>PILOT   td8D2       <FS>SM200005       <FS>15<FS>0047<FS>4902370000002348=121210111234123<FS>00038000<FS>00000250<FS>EECCBD2A57B822E7<FS><FS><FS>VA6.00.18DV02.70.10 V06.01.12 0  0T  00 110     00000902K1206003200005K145300010000000000000000000000000000000000<FS>ub093A<FS><ETX>V
+2016-03-15 14:33:34,062 [44] DEBUG SwitchLink.TritonNode.Communication.Services.CoreCommunicationService [(null)] - Sending Request to Core Node: Track2 :4902370000002348=121210111234123
+Amount1 :38000
+Amount2 :250
+PinBlock :EECCBD2A57B822E7
+
+2016-03-15 14:33:34,525 [45] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - <STX>PILOT   td8D2       <FS>SM200005       <FS>11<FS>0048<FS>4902370000002348=121210111234123<FS>00008000<FS>00000250<FS>EECCBD2A57B822E7<FS><FS><FS>VA6.00.18DV02.70.10 V06.01.12 0  0T  00 000     00000102K1205003200005K145200010000000000000000000000000000000000<FS>ub093A<FS><ETX>V
+2016-03-15 14:33:34,548 [45] DEBUG SwitchLink.TritonNode.Communication.Services.CoreCommunicationService [(null)] - Sending Request to Core Node: Track2 :4902370000002348=121210111234123
+Amount1 :8000
+Amount2 :250
+PinBlock :EECCBD2A57B822E7
+
+2016-03-15 14:33:35,029 [46] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - <STX>PILOT   td8D2       <FS>SM200005       <FS>12<FS>0049<FS>4902370000002348=121210111234123<FS>00021000<FS>00000250<FS>EECCBD2A57B822E7<FS><FS><FS>VA6.00.18DV02.70.10 V06.01.12 0  0T  00 110     00000502K1204003200005K145100010000000000000000000000000000000000<FS>ub093A<FS><ETX>V
+2016-03-15 14:33:35,051 [46] DEBUG SwitchLink.TritonNode.Communication.Services.CoreCommunicationService [(null)] - Sending Request to Core Node: Track2 :4902370000002348=121210111234123
+Amount1 :21000
+Amount2 :250
+PinBlock :EECCBD2A57B822E7
+
+2016-03-15 14:33:35,527 [47] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - <STX>PILOT   td8D2       <FS>SM200005       <FS>15<FS>0050<FS>4902370000002348=121210111234123<FS>00029000<FS>00000250<FS>EECCBD2A57B822E7<FS><FS><FS>VA6.00.18DV02.70.10 V06.01.12 0  0T  00 110     00000702K1203003200005K145000010000000000000000000000000000000000<FS>ub093A<FS><ETX>V
+2016-03-15 14:33:35,554 [47] DEBUG SwitchLink.TritonNode.Communication.Services.CoreCommunicationService [(null)] - Sending Request to Core Node: Track2 :4902370000002348=121210111234123
+Amount1 :29000
+Amount2 :250
+PinBlock :EECCBD2A57B822E7
+
+2016-03-15 14:33:36,035 [48] DEBUG SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Recieved Ack
+2016-03-15 14:33:36,036 [48] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Eot Sent
+2016-03-15 14:33:36,036 [48] DEBUG SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Recieved Ack
+2016-03-15 14:33:36,036 [48] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Eot Sent
+2016-03-15 14:33:36,036 [48] DEBUG SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Recieved Ack
+2016-03-15 14:33:36,036 [48] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Eot Sent
+2016-03-15 14:33:36,038 [48] DEBUG SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Recieved Ack
+2016-03-15 14:33:36,039 [48] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Eot Sent
+2016-03-15 14:33:36,039 [48] DEBUG SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Recieved Ack
+2016-03-15 14:33:36,039 [48] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Eot Sent
+2016-03-15 14:33:36,092 [48] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A client is disconnected!. Client Id: 0bcf4e28-8711-4fc3-8287-2e0d6b990b9c, Address:tcp://10.211.55.11:39120 
+2016-03-15 14:33:36,111 [21] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Stx Sent : count (2)
+2016-03-15 14:33:36,115 [20] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Stx Sent : count (2)
+2016-03-15 14:33:36,136 [42] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Stx Sent : count (2)
+2016-03-15 14:33:36,134 [48] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A client is disconnected!. Client Id: c33bb2b7-a549-4ec1-9e5d-ca7d5ae6651f, Address:tcp://10.211.55.11:39116 
+2016-03-15 14:33:36,135 [18] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Stx Sent : count (2)
+2016-03-15 14:33:36,167 [20] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Stx Sent : count (2)
+2016-03-15 14:33:36,188 [42] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Stx Sent : count (2)
+2016-03-15 14:33:36,250 [42] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Stx Sent : count (2)
+2016-03-15 14:33:36,211 [48] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A client is disconnected!. Client Id: 60b633e1-1beb-451d-acac-7e86d1cef0ae, Address:tcp://10.211.55.11:39118 
+2016-03-15 14:33:36,251 [42] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Stx Sent : count (2)
+2016-03-15 14:33:36,248 [28] DEBUG SwitchLink.TritonNode.Communication.Services.CoreCommunicationService [(null)] - Sending Request to Core Node: Track2 :4902370000002348=121210111234123
+Amount1 :27000
+Amount2 :250
+PinBlock :EECCBD2A57B822E7
+
+2016-03-15 14:33:36,169 [21] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Stx Sent : count (2)
+2016-03-15 14:33:36,248 [33] DEBUG SwitchLink.TritonNode.Communication.Services.CoreCommunicationService [(null)] - Sending Request to Core Node: Track2 :4902370000002348=121210111234123
+Amount1 :23000
+Amount2 :250
+PinBlock :EECCBD2A57B822E7
+
+2016-03-15 14:33:36,249 [23] DEBUG SwitchLink.TritonNode.Communication.Services.CoreCommunicationService [(null)] - Sending Request to Core Node: Track2 :4902370000002348=121210111234123
+Amount1 :8000
+Amount2 :250
+PinBlock :EECCBD2A57B822E7
+
+2016-03-15 14:33:36,247 [18] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Stx Sent : count (2)
+2016-03-15 14:33:36,303 [27] DEBUG SwitchLink.TritonNode.Communication.Services.CoreCommunicationService [(null)] - Sending Request to Core Node: Track2 :4902370000002348=121210111234123
+Amount1 :13000
+Amount2 :250
+PinBlock :EECCBD2A57B822E7
+
+2016-03-15 14:33:36,310 [48] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A client is disconnected!. Client Id: 209f57f3-65a9-4732-8ba0-d7f92936a32d, Address:tcp://10.211.55.11:39105 
+2016-03-15 14:33:36,312 [18] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Stx Sent : count (2)
+2016-03-15 14:33:36,312 [21] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Stx Sent : count (2)
+2016-03-15 14:33:36,317 [35] DEBUG SwitchLink.TritonNode.Communication.Services.CoreCommunicationService [(null)] - Sending Request to Core Node: Track2 :4902370000002348=121210111234123
+Amount1 :36000
+Amount2 :250
+PinBlock :EECCBD2A57B822E7
+
+2016-03-15 14:33:36,342 [25] DEBUG SwitchLink.TritonNode.Communication.Services.CoreCommunicationService [(null)] - Sending Request to Core Node: Track2 :4902370000002348=121210111234123
+Amount1 :6000
+Amount2 :250
+PinBlock :EECCBD2A57B822E7
+
+2016-03-15 14:33:36,342 [48] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A client is disconnected!. Client Id: e1924207-f0a6-4ebd-b1aa-1ac67cd78fbb, Address:tcp://10.211.55.11:39103 
+2016-03-15 14:33:36,344 [48] DEBUG SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Recieved Ack
+2016-03-15 14:33:36,345 [48] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Eot Sent
+2016-03-15 14:33:36,353 [48] DEBUG SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Recieved Ack
+2016-03-15 14:33:36,354 [48] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Eot Sent
+2016-03-15 14:33:36,354 [48] DEBUG SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Recieved Ack
+2016-03-15 14:33:36,354 [48] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Eot Sent
+2016-03-15 14:33:36,354 [48] DEBUG SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Recieved Ack
+2016-03-15 14:33:36,354 [48] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Eot Sent
+2016-03-15 14:33:36,360 [48] DEBUG SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Recieved Ack
+2016-03-15 14:33:36,361 [13] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A client is disconnected!. Client Id: ea321f2e-ad44-4582-a6fd-5f72d608c823, Address:tcp://10.211.55.11:39104 
+2016-03-15 14:33:36,361 [13] DEBUG SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Recieved Ack
+2016-03-15 14:33:36,361 [13] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Eot Sent
+2016-03-15 14:33:36,361 [48] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Eot Sent
+2016-03-15 14:33:36,401 [48] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A client is disconnected!. Client Id: 5db47db1-4106-450a-b00b-585354c7e704, Address:tcp://10.211.55.11:39124 
+2016-03-15 14:33:36,402 [13] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A client is disconnected!. Client Id: c5b04f25-555d-4257-96a3-51a3c3cda7c7, Address:tcp://10.211.55.11:39106 
+2016-03-15 14:33:36,425 [48] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A client is disconnected!. Client Id: 1d3259d1-9370-461f-9ad5-7c6217f54baa, Address:tcp://10.211.55.11:39127 
+2016-03-15 14:33:36,444 [13] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A client is disconnected!. Client Id: ef4fc800-c25a-4068-9e85-199641d2e7b6, Address:tcp://10.211.55.11:39117 
+2016-03-15 14:33:36,451 [48] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A client is disconnected!. Client Id: 0b4d6c2d-394d-4f67-8c80-7a6f510ce44c, Address:tcp://10.211.55.11:39119 
+2016-03-15 14:33:36,468 [13] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A client is disconnected!. Client Id: 502e402a-9332-4eae-a8e3-81faee81cd9a, Address:tcp://10.211.55.11:39126 
+2016-03-15 14:33:37,716 [15] DEBUG SwitchLink.TritonNode.Communication.Services.CoreCommunicationService [(null)] - Recieved Response from Core Node: Stan: 47277
+AmountTran: 23000
+AmtTranFee: 250
+AmountCash: 96666
+
+2016-03-15 14:33:37,716 [15] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - Starting to create transaction response
+2016-03-15 14:33:37,716 [15] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - Message sent to ATM: <STX>            <FS>0<FS>SM200005       <FS>12<FS>0027<FS>000<FS>00047277<FS>031516<FS>143337<FS>031516<FS>00096666<FS>00000250<FS><FS><FS><FS><ETX>.
+2016-03-15 14:33:37,717 [15] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Ack sent
+2016-03-15 14:33:37,718 [15] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Stx Sent : count (1)
+2016-03-15 14:33:37,845 [37] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A client is disconnected!. Client Id: c415270d-dd87-49ab-8ee7-7358f509dd88, Address:tcp://10.211.55.11:39128 
+2016-03-15 14:33:39,126 [18] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Stx Sent : count (3)
+2016-03-15 14:33:39,142 [21] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Stx Sent : count (3)
+2016-03-15 14:33:39,147 [37] DEBUG SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Recieved Ack
+2016-03-15 14:33:39,147 [37] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Eot Sent
+2016-03-15 14:33:39,164 [48] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A client is disconnected!. Client Id: c1f14fcc-71b9-4072-bde4-f4b09e829e11, Address:tcp://10.211.55.11:39122 
+2016-03-15 14:33:39,174 [18] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Stx Sent : count (3)
+2016-03-15 14:33:39,174 [20] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Stx Sent : count (3)
+2016-03-15 14:33:39,175 [21] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Stx Sent : count (3)
+2016-03-15 14:33:39,174 [42] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Stx Sent : count (3)
+2016-03-15 14:33:40,725 [18] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Stx Sent : count (2)
+2016-03-15 14:33:40,730 [48] DEBUG SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Recieved Ack
+2016-03-15 14:33:40,730 [48] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Eot Sent
+2016-03-15 14:33:40,746 [37] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A client is disconnected!. Client Id: f016cb89-61d4-4eb7-a84e-5ebcaf5fccd9, Address:tcp://10.211.55.11:39200 
+2016-03-15 14:33:42,133 [18] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 14:33:42,134 [18] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A client is disconnected!. Client Id: bd0ce733-ab72-44ca-a063-2aff9dd0b864, Address:tcp://10.211.55.11:39121 
+2016-03-15 14:33:42,134 [18] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 14:33:42,181 [20] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 14:33:42,181 [20] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A client is disconnected!. Client Id: 46639d53-3b96-4285-bb49-d9c3e1589dc7, Address:tcp://10.211.55.11:39114 
+2016-03-15 14:33:42,181 [20] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 14:33:42,181 [21] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 14:33:42,181 [42] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 14:33:42,183 [21] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A client is disconnected!. Client Id: 0c0c5bb3-1829-478c-a241-7ede42447de4, Address:tcp://10.211.55.11:39115 
+2016-03-15 14:33:42,183 [21] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 14:33:42,183 [42] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A client is disconnected!. Client Id: 1b8e2c27-abbd-4d34-af17-ff3c78e343b6, Address:tcp://10.211.55.11:39113 
+2016-03-15 14:33:42,183 [42] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 14:33:42,730 [19] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 14:33:42,730 [19] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A client is disconnected!. Client Id: 7d715a1a-cd74-48ec-b416-30ff913d4be7, Address:tcp://10.211.55.11:39125 
+2016-03-15 14:33:42,731 [19] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 14:33:44,293 [30] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A client is disconnected!. Client Id: b11abc09-9ba3-471c-bcf6-bc2f4aee2b8b, Address:tcp://10.211.55.11:39207 
+2016-03-15 14:33:50,735 [47] DEBUG SwitchLink.TritonNode.Communication.Services.CoreCommunicationService [(null)] - Recieved Response from Core Node: Stan: 47295
+AmountTran: 29000
+AmtTranFee: 250
+AmountCash: 50516
+
+2016-03-15 14:33:50,735 [47] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - Starting to create transaction response
+2016-03-15 14:33:50,735 [47] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - Message sent to ATM: <STX>            <FS>0<FS>SM200005       <FS>15<FS>0050<FS>000<FS>00047295<FS>031516<FS>143350<FS>031516<FS>00050516<FS>00000250<FS><FS><FS><FS><ETX>*
+2016-03-15 14:33:50,736 [47] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Ack sent
+2016-03-15 14:33:50,738 [47] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Stx Sent : count (1)
+2016-03-15 14:33:50,791 [41] DEBUG SwitchLink.TritonNode.Communication.Services.CoreCommunicationService [(null)] - Recieved Response from Core Node: Stan: 47278
+AmountTran: 9000
+AmtTranFee: 250
+AmountCash: 25935
+
+2016-03-15 14:33:50,791 [41] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - Starting to create transaction response
+2016-03-15 14:33:50,791 [41] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - Message sent to ATM: <STX>            <FS>0<FS>SM200005       <FS>11<FS>0026<FS>000<FS>00047278<FS>031516<FS>143350<FS>031516<FS>00025935<FS>00000250<FS><FS><FS><FS><ETX>#
+2016-03-15 14:33:50,792 [41] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Ack sent
+2016-03-15 14:33:50,792 [41] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Stx Sent : count (1)
+2016-03-15 14:33:50,791 [11] DEBUG SwitchLink.TritonNode.Communication.Services.CoreCommunicationService [(null)] - Recieved Response from Core Node: Stan: 47289
+AmountTran: 23000
+AmtTranFee: 250
+AmountCash: 25935
+
+2016-03-15 14:33:50,793 [11] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - Starting to create transaction response
+2016-03-15 14:33:50,794 [11] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - Message sent to ATM: <STX>            <FS>0<FS>SM200005       <FS>12<FS>0044<FS>000<FS>00047289<FS>031516<FS>143350<FS>031516<FS>00025935<FS>00000250<FS><FS><FS><FS><ETX>*
+2016-03-15 14:33:50,794 [11] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Ack sent
+2016-03-15 14:33:50,795 [11] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Stx Sent : count (1)
+2016-03-15 14:33:50,810 [32] DEBUG SwitchLink.TritonNode.Communication.Services.CoreCommunicationService [(null)] - Recieved Response from Core Node: Stan: 47273
+AmountTran: 2000
+AmtTranFee: 250
+AmountCash: 9901
+
+2016-03-15 14:33:50,810 [32] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - Starting to create transaction response
+2016-03-15 14:33:50,810 [32] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - Message sent to ATM: <STX>            <FS>0<FS>SM200005       <FS>11<FS>0017<FS>008<FS>00047273<FS>031516<FS>143350<FS>031516<FS>00009901<FS>00000250<FS><FS><FS><FS><ETX>+
+2016-03-15 14:33:50,810 [32] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Ack sent
+2016-03-15 14:33:50,811 [32] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Stx Sent : count (1)
+2016-03-15 14:33:50,863 [40] DEBUG SwitchLink.TritonNode.Communication.Services.CoreCommunicationService [(null)] - Recieved Response from Core Node: Stan: 47276
+AmountTran: 21000
+AmtTranFee: 250
+AmountCash: 69644
+
+2016-03-15 14:33:50,863 [40] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - Starting to create transaction response
+2016-03-15 14:33:50,864 [40] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - Message sent to ATM: <STX>            <FS>0<FS>SM200005       <FS>12<FS>0025<FS>000<FS>00047276<FS>031516<FS>143350<FS>031516<FS>00069644<FS>00000250<FS><FS><FS><FS><ETX>,
+2016-03-15 14:33:50,864 [40] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Ack sent
+2016-03-15 14:33:50,864 [40] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Stx Sent : count (1)
+2016-03-15 14:33:50,911 [36] DEBUG SwitchLink.TritonNode.Communication.Services.CoreCommunicationService [(null)] - Recieved Response from Core Node: Stan: 47282
+AmountTran: 37000
+AmtTranFee: 250
+AmountCash: 9901
+
+2016-03-15 14:33:50,911 [36] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - Starting to create transaction response
+2016-03-15 14:33:50,911 [36] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - Message sent to ATM: <STX>            <FS>0<FS>SM200005       <FS>15<FS>0028<FS>008<FS>00047282<FS>031516<FS>143350<FS>031516<FS>00009901<FS>00000250<FS><FS><FS><FS><ETX>-
+2016-03-15 14:33:50,911 [36] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Ack sent
+2016-03-15 14:33:50,914 [36] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Stx Sent : count (1)
+2016-03-15 14:33:50,974 [38] DEBUG SwitchLink.TritonNode.Communication.Services.CoreCommunicationService [(null)] - Recieved Response from Core Node: Stan: 47274
+AmountTran: 38000
+AmtTranFee: 250
+AmountCash: 80226
+
+2016-03-15 14:33:50,975 [38] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - Starting to create transaction response
+2016-03-15 14:33:50,975 [38] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - Message sent to ATM: <STX>            <FS>0<FS>SM200005       <FS>15<FS>0023<FS>000<FS>00047274<FS>031516<FS>143350<FS>031516<FS>00080226<FS>00000250<FS><FS><FS><FS><ETX>(
+2016-03-15 14:33:50,984 [38] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Ack sent
+2016-03-15 14:33:51,006 [38] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Stx Sent : count (1)
+2016-03-15 14:33:51,006 [31] DEBUG SwitchLink.TritonNode.Communication.Services.CoreCommunicationService [(null)] - Recieved Response from Core Node: Stan: 47279
+AmountTran: 27000
+AmtTranFee: 250
+AmountCash: 36517
+
+2016-03-15 14:33:51,006 [14] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A client is disconnected!. Client Id: c90d752b-fe71-4d5f-b816-dbf10e11841d, Address:tcp://10.211.55.11:39218 
+2016-03-15 14:33:51,007 [31] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - Starting to create transaction response
+2016-03-15 14:33:51,007 [31] DEBUG SwitchLink.ProtocalFactory.TritonNode.Factory [(null)] - Message sent to ATM: <STX>            <FS>0<FS>SM200005       <FS>12<FS>0029<FS>000<FS>00047279<FS>031516<FS>143351<FS>031516<FS>00036517<FS>00000250<FS><FS><FS><FS><ETX>!
+2016-03-15 14:33:51,008 [31] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Ack sent
+2016-03-15 14:33:51,008 [31] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Stx Sent : count (1)
+2016-03-15 14:33:51,026 [31] DEBUG SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Recieved Ack
+2016-03-15 14:33:51,027 [31] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Eot Sent
+2016-03-15 14:33:51,042 [48] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A client is disconnected!. Client Id: 65aad345-0412-4755-9aea-6bd6a95c7fdf, Address:tcp://10.211.55.11:39203 
+2016-03-15 14:33:53,750 [49] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Stx Sent : count (2)
+2016-03-15 14:33:53,808 [49] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Stx Sent : count (2)
+2016-03-15 14:33:53,809 [49] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Stx Sent : count (2)
+2016-03-15 14:33:53,810 [48] DEBUG SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Recieved Ack
+2016-03-15 14:33:53,810 [48] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Eot Sent
+2016-03-15 14:33:53,810 [47] DEBUG SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Recieved Ack
+2016-03-15 14:33:53,811 [47] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Eot Sent
+2016-03-15 14:33:53,828 [49] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Stx Sent : count (2)
+2016-03-15 14:33:53,828 [41] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A client is disconnected!. Client Id: c33f2eed-d99b-4936-b9f3-4e709ff26ead, Address:tcp://10.211.55.11:39220 
+2016-03-15 14:33:53,838 [48] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A client is disconnected!. Client Id: 101bd269-75bd-4a8f-b8b9-7b90f89ae9c1, Address:tcp://10.211.55.11:39199 
+2016-03-15 14:33:53,872 [49] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Stx Sent : count (2)
+2016-03-15 14:33:53,875 [48] DEBUG SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Recieved Ack
+2016-03-15 14:33:53,875 [48] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Eot Sent
+2016-03-15 14:33:53,885 [15] DEBUG SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Recieved Ack
+2016-03-15 14:33:53,892 [15] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Eot Sent
+2016-03-15 14:33:53,892 [47] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A client is disconnected!. Client Id: 49ad6601-641a-411b-a195-d3847a7d9fa0, Address:tcp://10.211.55.11:39123 
+2016-03-15 14:33:53,918 [48] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A client is disconnected!. Client Id: ef35ada9-5651-47cc-8cf5-a2dd9a25ffa3, Address:tcp://10.211.55.11:39131 
+2016-03-15 14:33:53,935 [49] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Stx Sent : count (2)
+2016-03-15 14:33:54,013 [49] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Stx Sent : count (2)
+2016-03-15 14:33:54,015 [48] DEBUG SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Recieved Ack
+2016-03-15 14:33:54,016 [48] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Eot Sent
+2016-03-15 14:33:54,031 [47] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A client is disconnected!. Client Id: b46bdc49-3e6b-4d39-ab6d-ef427aaef7e1, Address:tcp://10.211.55.11:39129 
+2016-03-15 14:33:56,769 [49] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Stx Sent : count (3)
+2016-03-15 14:33:56,942 [49] INFO  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - Response Stx Sent : count (3)
+2016-03-15 14:33:57,050 [39] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A client is disconnected!. Client Id: 2a7bdb6a-e923-4371-9864-965302d2c29e, Address:tcp://10.211.55.11:39130 
+2016-03-15 14:33:57,614 [48] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A client is disconnected!. Client Id: 47100ad4-78e1-4161-9a5f-9950e44c0fb5, Address:tcp://10.211.55.11:39229 
+2016-03-15 14:33:57,614 [48] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 14:33:57,614 [39] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A client is disconnected!. Client Id: d6e50057-5bf9-476e-9168-93fe9a3ea9f6, Address:tcp://10.211.55.11:39201 
+2016-03-15 14:34:05,302 [43] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A client is disconnected!. Client Id: 6f47b71d-290d-4747-b07b-378869191af9, Address:tcp://10.211.55.11:39219 
+2016-03-15 14:34:05,439 [29] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A client is disconnected!. Client Id: c6e02656-895b-486b-82c2-0a4db5363c12, Address:tcp://10.211.55.11:39205 
+2016-03-15 14:34:05,439 [26] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A client is disconnected!. Client Id: 674b4370-08e6-45ec-b912-28c9cfba4820, Address:tcp://10.211.55.11:39211 
+2016-03-15 14:34:05,490 [34] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A client is disconnected!. Client Id: ba038b1a-bb75-473c-8e71-b0f6eafe0eb5, Address:tcp://10.211.55.11:39212 
+2016-03-15 14:34:05,491 [22] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A client is disconnected!. Client Id: bb95cf61-eb1b-4068-b772-7002f8dc887a, Address:tcp://10.211.55.11:39208 
+2016-03-15 14:34:05,499 [24] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A client is disconnected!. Client Id: f2c7a944-7227-4616-91e8-7c904e898209, Address:tcp://10.211.55.11:39209 
+2016-03-15 14:34:05,499 [45] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A client is disconnected!. Client Id: 2ca153c9-76e8-4a80-8d4d-30c3da4064ff, Address:tcp://10.211.55.11:39225 
+2016-03-15 14:34:05,524 [28] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A client is disconnected!. Client Id: 6af77309-c0cc-4c3a-92d8-51a52579fd2e, Address:tcp://10.211.55.11:39217 
+2016-03-15 14:34:05,524 [25] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A client is disconnected!. Client Id: d9255cb2-f7a9-4bb6-bdb4-295cad00ea46, Address:tcp://10.211.55.11:39215 
+2016-03-15 14:34:05,525 [46] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A client is disconnected!. Client Id: e76d54a6-5a44-43a6-8158-d2ce0cfe2672, Address:tcp://10.211.55.11:39227 
+2016-03-15 14:34:05,526 [17] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A client is disconnected!. Client Id: d5bd9dc0-d81d-49d3-9a07-42202dd14918, Address:tcp://10.211.55.11:39221 
+2016-03-15 14:34:05,542 [16] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A client is disconnected!. Client Id: eb28e9ca-8429-4422-a36f-873224408580, Address:tcp://10.211.55.11:39222 
+2016-03-15 14:34:05,542 [35] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A client is disconnected!. Client Id: d158842e-5529-456b-b6e5-c9d9336cbb75, Address:tcp://10.211.55.11:39214 
+2016-03-15 14:34:05,542 [27] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A client is disconnected!. Client Id: 0a9f08b8-b7d6-4e65-89b9-1d58a8639b11, Address:tcp://10.211.55.11:39216 
+2016-03-15 14:34:05,543 [23] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A client is disconnected!. Client Id: 46708df8-a12c-4ed4-b382-70638a0fcac4, Address:tcp://10.211.55.11:39210 
+2016-03-15 14:34:05,543 [44] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A client is disconnected!. Client Id: 9df9c45e-e3e7-4214-b2fa-65da0e84756e, Address:tcp://10.211.55.11:39224 
+2016-03-15 14:34:05,542 [33] INFO  SwitchLink.TritonNode.SocketServer.TritonNode [(null)] - A client is disconnected!. Client Id: 05a995be-4264-4231-8e81-095c62fe4bd6, Address:tcp://10.211.55.11:39213 

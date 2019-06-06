@@ -1,0 +1,14 @@
+C:\Development\SwitchLink.Switch\SwitchLink.Cryptography\bin\Debug\app.config
+C:\Development\SwitchLink.Switch\SwitchLink.Cryptography\bin\Debug\SwitchLink.Cryptography.dll.config
+C:\Development\SwitchLink.Switch\SwitchLink.Cryptography\bin\Debug\SwitchLink.Cryptography.dll
+C:\Development\SwitchLink.Switch\SwitchLink.Cryptography\bin\Debug\SwitchLink.Cryptography.pdb
+C:\Development\SwitchLink.Switch\SwitchLink.Cryptography\bin\Debug\log4net.dll
+C:\Development\SwitchLink.Switch\SwitchLink.Cryptography\bin\Debug\nunit.framework.dll
+C:\Development\SwitchLink.Switch\SwitchLink.Cryptography\bin\Debug\Scs.dll
+C:\Development\SwitchLink.Switch\SwitchLink.Cryptography\bin\Debug\Scs.pdb
+C:\Development\SwitchLink.Switch\SwitchLink.Cryptography\bin\Debug\Scs.xml
+C:\Development\SwitchLink.Switch\SwitchLink.Cryptography\bin\Debug\log4net.xml
+C:\Development\SwitchLink.Switch\SwitchLink.Cryptography\bin\Debug\nunit.framework.xml
+C:\Development\SwitchLink.Switch\SwitchLink.Cryptography\obj\Debug\SwitchLink.Cryptography.csprojResolveAssemblyReference.cache
+C:\Development\SwitchLink.Switch\SwitchLink.Cryptography\obj\Debug\SwitchLink.Cryptography.dll
+C:\Development\SwitchLink.Switch\SwitchLink.Cryptography\obj\Debug\SwitchLink.Cryptography.pdb

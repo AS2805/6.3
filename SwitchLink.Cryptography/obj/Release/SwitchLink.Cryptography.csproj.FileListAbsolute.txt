@@ -1,0 +1,14 @@
+C:\Development\SwitchLink.Switch\SwitchLink.Cryptography\bin\Release\app.config
+C:\Development\SwitchLink.Switch\SwitchLink.Cryptography\bin\Release\SwitchLink.Cryptography.dll.config
+C:\Development\SwitchLink.Switch\SwitchLink.Cryptography\bin\Release\SwitchLink.Cryptography.dll
+C:\Development\SwitchLink.Switch\SwitchLink.Cryptography\bin\Release\SwitchLink.Cryptography.pdb
+C:\Development\SwitchLink.Switch\SwitchLink.Cryptography\bin\Release\log4net.dll
+C:\Development\SwitchLink.Switch\SwitchLink.Cryptography\bin\Release\nunit.framework.dll
+C:\Development\SwitchLink.Switch\SwitchLink.Cryptography\bin\Release\Scs.dll
+C:\Development\SwitchLink.Switch\SwitchLink.Cryptography\bin\Release\Scs.pdb
+C:\Development\SwitchLink.Switch\SwitchLink.Cryptography\bin\Release\Scs.xml
+C:\Development\SwitchLink.Switch\SwitchLink.Cryptography\bin\Release\log4net.xml
+C:\Development\SwitchLink.Switch\SwitchLink.Cryptography\bin\Release\nunit.framework.xml
+C:\Development\SwitchLink.Switch\SwitchLink.Cryptography\obj\Release\SwitchLink.Cryptography.csprojResolveAssemblyReference.cache
+C:\Development\SwitchLink.Switch\SwitchLink.Cryptography\obj\Release\SwitchLink.Cryptography.dll
+C:\Development\SwitchLink.Switch\SwitchLink.Cryptography\obj\Release\SwitchLink.Cryptography.pdb

@@ -1,0 +1,14 @@
+C:\Development\SwitchLink.Switch\Switchlink.Diagnostics\bin\Debug\app.config
+C:\Development\SwitchLink.Switch\Switchlink.Diagnostics\bin\Debug\Switchlink.Diagnostics.dll.config
+C:\Development\SwitchLink.Switch\Switchlink.Diagnostics\bin\Debug\Switchlink.Diagnostics.dll
+C:\Development\SwitchLink.Switch\Switchlink.Diagnostics\bin\Debug\Switchlink.Diagnostics.pdb
+C:\Development\SwitchLink.Switch\Switchlink.Diagnostics\bin\Debug\log4net.dll
+C:\Development\SwitchLink.Switch\Switchlink.Diagnostics\bin\Debug\SwitchLink.Cryptography.dll
+C:\Development\SwitchLink.Switch\Switchlink.Diagnostics\bin\Debug\Scs.dll
+C:\Development\SwitchLink.Switch\Switchlink.Diagnostics\bin\Debug\SwitchLink.Cryptography.pdb
+C:\Development\SwitchLink.Switch\Switchlink.Diagnostics\bin\Debug\log4net.xml
+C:\Development\SwitchLink.Switch\Switchlink.Diagnostics\bin\Debug\Scs.pdb
+C:\Development\SwitchLink.Switch\Switchlink.Diagnostics\bin\Debug\Scs.xml
+C:\Development\SwitchLink.Switch\Switchlink.Diagnostics\obj\Debug\Switchlink.Diagnostics.csprojResolveAssemblyReference.cache
+C:\Development\SwitchLink.Switch\Switchlink.Diagnostics\obj\Debug\Switchlink.Diagnostics.dll
+C:\Development\SwitchLink.Switch\Switchlink.Diagnostics\obj\Debug\Switchlink.Diagnostics.pdb

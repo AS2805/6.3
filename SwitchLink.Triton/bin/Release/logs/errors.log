@@ -1,0 +1,111 @@
+2016-03-15 14:29:54,274 [23] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 14:29:54,275 [23] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 14:30:07,424 [24] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 14:30:07,425 [24] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 14:30:19,307 [24] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 14:30:19,308 [24] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 14:31:22,980 [42] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 14:31:25,424 [42] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 14:31:25,424 [42] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 14:31:25,927 [43] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 14:31:25,987 [56] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 14:31:25,988 [56] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 14:31:27,510 [55] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 14:31:27,535 [54] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 14:31:27,536 [43] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 14:31:27,619 [81] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 14:31:27,900 [43] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 14:31:30,498 [53] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 14:31:30,498 [55] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 14:31:30,498 [54] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 14:31:30,499 [54] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 14:31:30,500 [55] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 14:31:30,500 [53] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 14:31:30,498 [81] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 14:31:30,503 [81] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 14:31:30,615 [57] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 14:31:30,616 [57] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 14:31:30,617 [76] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 14:31:30,619 [78] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 14:31:30,619 [76] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 14:31:30,623 [78] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 14:31:30,737 [79] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 14:31:30,738 [83] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 14:31:30,741 [83] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 14:31:30,757 [79] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 14:31:30,830 [82] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 14:31:30,831 [82] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 14:31:30,830 [77] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 14:31:30,845 [77] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 14:31:34,972 [80] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 14:31:34,972 [43] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 14:31:34,974 [43] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 14:31:34,990 [94] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 14:31:34,991 [94] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 14:31:35,005 [93] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 14:31:35,006 [93] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 14:31:35,005 [80] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 14:31:35,016 [80] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 14:31:35,944 [106] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 14:31:35,945 [106] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 14:31:44,492 [109] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 14:31:44,492 [109] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 14:31:45,464 [127] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 14:31:45,465 [127] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 14:31:46,465 [130] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 14:31:46,466 [130] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 14:31:47,477 [133] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 14:31:47,478 [133] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 14:31:48,470 [136] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 14:31:48,471 [136] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 14:31:49,475 [139] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 14:31:49,475 [139] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 14:32:28,612 [142] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 14:32:29,438 [77] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 14:32:29,468 [83] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 14:32:41,055 [156] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 14:32:41,068 [108] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 14:32:41,126 [88] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 14:32:41,127 [157] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 14:32:41,156 [97] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 14:33:33,913 [17] ERROR SwitchLink.ProtocalFactory.TritonNode.Models.TransactionModel [(null)] - Authentication to host 'localhost' for user 'root' using method 'mysql_native_password' failed with message: Reading from the stream has failed. Stack:    at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed(Exception ex)
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(Boolean reset)
+   at MySql.Data.MySqlClient.NativeDriver.Authenticate(String authMethod, Boolean reset)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at SwitchLink.Data.BaseData.GetOpenConnection() in C:\Development\SwitchLink.Switch\SwitchLink.Data\BaseData.cs:line 30
+   at SwitchLink.Data.TransactionData.GetSequenceNumbers(String seq_type) in C:\Development\SwitchLink.Switch\SwitchLink.Data\TransactionData.cs:line 58
+   at SwitchLink.ProtocalFactory.Helper.RRN_Sequence.get_TranSeqNo() in C:\Development\SwitchLink.Switch\Framework\SwitchLink.ProtocalFactory\Helper\RRN_Sequence.cs:line 24
+   at SwitchLink.ProtocalFactory.TritonNode.Models.TransactionModel.Create(String[] results, String request) in C:\Development\SwitchLink.Switch\Framework\SwitchLink.ProtocalFactory\TritonNode\Models\TransactionModel.cs:line 36
+2016-03-15 14:33:33,915 [16] ERROR SwitchLink.ProtocalFactory.TritonNode.Models.TransactionModel [(null)] - Authentication to host 'localhost' for user 'root' using method 'mysql_native_password' failed with message: Reading from the stream has failed. Stack:    at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed(Exception ex)
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(Boolean reset)
+   at MySql.Data.MySqlClient.NativeDriver.Authenticate(String authMethod, Boolean reset)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at SwitchLink.Data.BaseData.GetOpenConnection() in C:\Development\SwitchLink.Switch\SwitchLink.Data\BaseData.cs:line 30
+   at SwitchLink.Data.TransactionData.GetSequenceNumbers(String seq_type) in C:\Development\SwitchLink.Switch\SwitchLink.Data\TransactionData.cs:line 58
+   at SwitchLink.ProtocalFactory.Helper.RRN_Sequence.get_TranSeqNo() in C:\Development\SwitchLink.Switch\Framework\SwitchLink.ProtocalFactory\Helper\RRN_Sequence.cs:line 24
+   at SwitchLink.ProtocalFactory.TritonNode.Models.TransactionModel.Create(String[] results, String request) in C:\Development\SwitchLink.Switch\Framework\SwitchLink.ProtocalFactory\TritonNode\Models\TransactionModel.cs:line 36
+2016-03-15 14:33:42,133 [18] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 14:33:42,134 [18] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 14:33:42,181 [20] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 14:33:42,181 [20] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 14:33:42,181 [21] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 14:33:42,181 [42] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 14:33:42,183 [21] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 14:33:42,183 [42] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 14:33:42,730 [19] WARN  SwitchLink.TritonNode.Communication.Controller.AtmCommunicationController [(null)] - ATM not ACK within 3 times
+2016-03-15 14:33:42,731 [19] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank
+2016-03-15 14:33:57,614 [48] WARN  SwitchLink.TritonNode.Communication.Services.AtmCoreService [(null)] - Triton process reversal message to bank

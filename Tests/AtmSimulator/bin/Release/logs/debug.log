@@ -1,0 +1,12 @@
+2016-03-15 14:33:53,828 [17] DEBUG AtmSimulatorWinForm.ConnectionServices [(null)] - Atm Id : 17 Received reponse from Bank, Time elapsed: 00:00:28.9195592
+2016-03-15 14:33:53,874 [17] DEBUG AtmSimulatorWinForm.ConnectionServices [(null)] - Atm Id : 17 : Responsed ACK
+2016-03-15 14:33:53,872 [15] DEBUG AtmSimulatorWinForm.ConnectionServices [(null)] - Atm Id : 25 Received reponse from Bank, Time elapsed: 00:00:28.8099185
+2016-03-15 14:33:53,877 [15] DEBUG AtmSimulatorWinForm.ConnectionServices [(null)] - Atm Id : 25 : Responsed ACK
+2016-03-15 14:33:53,937 [17] DEBUG AtmSimulatorWinForm.ConnectionServices [(null)] - Atm Id : 3 Received reponse from Bank, Time elapsed: 00:00:19.2894409
+2016-03-15 14:33:53,943 [17] DEBUG AtmSimulatorWinForm.ConnectionServices [(null)] - Atm Id : 3 : Not Responsed ACK
+2016-03-15 14:33:54,013 [17] DEBUG AtmSimulatorWinForm.ConnectionServices [(null)] - Atm Id : 23 Received reponse from Bank, Time elapsed: 00:00:28.9780205
+2016-03-15 14:33:54,014 [17] DEBUG AtmSimulatorWinForm.ConnectionServices [(null)] - Atm Id : 23 : Responsed ACK
+2016-03-15 14:33:56,769 [16] DEBUG AtmSimulatorWinForm.ConnectionServices [(null)] - Atm Id : 25 Received reponse from Bank, Time elapsed: 00:00:18.5726165
+2016-03-15 14:33:56,770 [16] DEBUG AtmSimulatorWinForm.ConnectionServices [(null)] - Atm Id : 25 : Not Responsed ACK
+2016-03-15 14:33:56,942 [16] DEBUG AtmSimulatorWinForm.ConnectionServices [(null)] - Atm Id : 3 Received reponse from Bank, Time elapsed: 00:00:19.2894409
+2016-03-15 14:33:56,943 [16] DEBUG AtmSimulatorWinForm.ConnectionServices [(null)] - Atm Id : 3 : Not Responsed ACK

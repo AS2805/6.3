@@ -1,0 +1,14 @@
+C:\Development\SwitchLink.Switch\Switchlink.Diagnostics\bin\Release\app.config
+C:\Development\SwitchLink.Switch\Switchlink.Diagnostics\bin\Release\Switchlink.Diagnostics.dll.config
+C:\Development\SwitchLink.Switch\Switchlink.Diagnostics\bin\Release\Switchlink.Diagnostics.dll
+C:\Development\SwitchLink.Switch\Switchlink.Diagnostics\bin\Release\Switchlink.Diagnostics.pdb
+C:\Development\SwitchLink.Switch\Switchlink.Diagnostics\bin\Release\log4net.dll
+C:\Development\SwitchLink.Switch\Switchlink.Diagnostics\bin\Release\SwitchLink.Cryptography.dll
+C:\Development\SwitchLink.Switch\Switchlink.Diagnostics\bin\Release\Scs.dll
+C:\Development\SwitchLink.Switch\Switchlink.Diagnostics\bin\Release\SwitchLink.Cryptography.pdb
+C:\Development\SwitchLink.Switch\Switchlink.Diagnostics\bin\Release\log4net.xml
+C:\Development\SwitchLink.Switch\Switchlink.Diagnostics\bin\Release\Scs.pdb
+C:\Development\SwitchLink.Switch\Switchlink.Diagnostics\bin\Release\Scs.xml
+C:\Development\SwitchLink.Switch\Switchlink.Diagnostics\obj\Release\Switchlink.Diagnostics.csprojResolveAssemblyReference.cache
+C:\Development\SwitchLink.Switch\Switchlink.Diagnostics\obj\Release\Switchlink.Diagnostics.dll
+C:\Development\SwitchLink.Switch\Switchlink.Diagnostics\obj\Release\Switchlink.Diagnostics.pdb

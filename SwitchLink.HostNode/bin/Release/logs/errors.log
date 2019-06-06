@@ -1,0 +1,32 @@
+2016-03-15 14:28:13,884 [6] WARN  SwitchLink.HostNode.Communication.Services.BankingCoreService [(null)] - Host Disonnected From Partner..
+2016-03-15 14:28:13,885 [6] WARN  SwitchLink.HostNode.Communication.Controller.BankingCommunicationController [(null)] - Connecting to Partner...
+2016-03-15 14:29:09,499 [6] WARN  SwitchLink.HostNode.Communication.Services.BankingCoreService [(null)] - Host Disonnected From Partner..
+2016-03-15 14:29:09,500 [6] WARN  SwitchLink.HostNode.Communication.Controller.BankingCommunicationController [(null)] - Connecting to Partner...
+2016-03-15 14:29:51,991 [24] ERROR SwitchLink.HostNode.Communication.Controller.BankingCommunicationController [(null)] - Transaction ref:47066 timeout => Partner not responding request in 6 sec.
+2016-03-15 14:30:16,365 [21] ERROR SwitchLink.HostNode.Communication.Controller.BankingCommunicationController [(null)] - Transaction ref:47090 timeout => Partner not responding request in 6 sec.
+2016-03-15 14:30:22,991 [27] ERROR SwitchLink.HostNode.Communication.Controller.BankingCommunicationController [(null)] - Transaction ref:47093 timeout => Partner not responding request in 6 sec.
+2016-03-15 14:30:29,993 [32] ERROR SwitchLink.HostNode.Communication.Controller.BankingCommunicationController [(null)] - Transaction ref:47096 timeout => Partner not responding request in 6 sec.
+2016-03-15 14:30:36,064 [38] ERROR SwitchLink.HostNode.Communication.Controller.BankingCommunicationController [(null)] - Transaction ref:47101 timeout => Partner not responding request in 6 sec.
+2016-03-15 14:30:42,680 [19] ERROR SwitchLink.HostNode.Communication.Controller.BankingCommunicationController [(null)] - Transaction ref:47114 timeout => Partner not responding request in 6 sec.
+2016-03-15 14:31:28,338 [53] ERROR SwitchLink.HostNode.Communication.Controller.BankingCommunicationController [(null)] - Transaction ref:47141 timeout => Partner not responding request in 6 sec.
+2016-03-15 14:31:34,921 [60] ERROR SwitchLink.HostNode.Communication.Controller.BankingCommunicationController [(null)] - Transaction ref:47148 timeout => Partner not responding request in 6 sec.
+2016-03-15 14:31:40,974 [66] ERROR SwitchLink.HostNode.Communication.Controller.BankingCommunicationController [(null)] - Transaction ref:47152 timeout => Partner not responding request in 6 sec.
+2016-03-15 14:31:47,043 [72] ERROR SwitchLink.HostNode.Communication.Controller.BankingCommunicationController [(null)] - Transaction ref:47156 timeout => Partner not responding request in 6 sec.
+2016-03-15 14:31:53,958 [79] ERROR SwitchLink.HostNode.Communication.Controller.BankingCommunicationController [(null)] - Transaction ref:47170 timeout => Partner not responding request in 6 sec.
+2016-03-15 14:32:01,180 [86] ERROR SwitchLink.HostNode.Communication.Controller.BankingCommunicationController [(null)] - Transaction ref:47149 timeout => Partner not responding request in 6 sec.
+2016-03-15 14:32:08,196 [93] ERROR SwitchLink.HostNode.Communication.Controller.BankingCommunicationController [(null)] - Transaction ref:47119 timeout => Partner not responding request in 6 sec.
+2016-03-15 14:32:15,210 [100] ERROR SwitchLink.HostNode.Communication.Controller.BankingCommunicationController [(null)] - Transaction ref:47122 timeout => Partner not responding request in 6 sec.
+2016-03-15 14:32:22,225 [107] ERROR SwitchLink.HostNode.Communication.Controller.BankingCommunicationController [(null)] - Transaction ref:47192 timeout => Partner not responding request in 6 sec.
+2016-03-15 14:32:28,738 [115] ERROR SwitchLink.HostNode.Communication.Controller.BankingCommunicationController [(null)] - Transaction ref:47200 timeout => Partner not responding request in 6 sec.
+2016-03-15 14:32:33,333 [123] ERROR SwitchLink.HostNode.Communication.Controller.BankingCommunicationController [(null)] - Transaction ref:47159 timeout => Partner not responding request in 6 sec.
+2016-03-15 14:32:40,349 [34] ERROR SwitchLink.HostNode.Communication.Controller.BankingCommunicationController [(null)] - Transaction ref:47215 timeout => Partner not responding request in 6 sec.
+2016-03-15 14:33:01,451 [6] WARN  SwitchLink.HostNode.Communication.Services.BankingCoreService [(null)] - Host Disonnected From Partner..
+2016-03-15 14:33:01,452 [6] WARN  SwitchLink.HostNode.Communication.Controller.BankingCommunicationController [(null)] - Connecting to Partner...
+2016-03-15 14:33:30,969 [28] ERROR SwitchLink.HostNode.Communication.Controller.BankingCommunicationController [(null)] - Transaction ref:47255 timeout => Partner not responding request in 6 sec.
+2016-03-15 14:33:37,661 [31] ERROR SwitchLink.HostNode.Communication.Controller.BankingCommunicationController [(null)] - Transaction ref:47272 timeout => Partner not responding request in 6 sec.
+2016-03-15 14:33:44,173 [37] ERROR SwitchLink.HostNode.Communication.Controller.BankingCommunicationController [(null)] - Transaction ref:47280 timeout => Partner not responding request in 6 sec.
+2016-03-15 14:33:50,685 [43] ERROR SwitchLink.HostNode.Communication.Controller.BankingCommunicationController [(null)] - Transaction ref:47287 timeout => Partner not responding request in 6 sec.
+2016-03-15 14:33:56,916 [20] ERROR SwitchLink.HostNode.Communication.Controller.BankingCommunicationController [(null)] - Transaction ref:47275 timeout => Partner not responding request in 6 sec.
+2016-03-15 14:34:01,885 [45] WARN  SwitchLink.HostNode.Communication.Services.BankingCoreService [(null)] - Host Disonnected From Partner..
+2016-03-15 14:34:01,886 [20] WARN  SwitchLink.HostNode.Communication.Services.BankingCoreService [(null)] - Host Disonnected From Partner..
+2016-03-15 14:34:01,886 [20] WARN  SwitchLink.HostNode.Communication.Controller.BankingCommunicationController [(null)] - Connecting to Partner...
